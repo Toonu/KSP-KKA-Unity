@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 544}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 120
+  controlID: 33
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,7 +149,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 544}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 52
+  controlID: 34
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-  controlID: 53
+  controlID: 35
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -337,20 +337,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/R-98
+    - Assets/R-8T
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/R-98
+  - Assets/R-8T
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Toonu\OneDrive\PycharmProjects\NoU KSP Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c02e0000
-    m_LastClickedID: 11968
-    m_ExpandedIDs: 000000005a2d000000ca9a3b
+    m_SelectedIDs: 142f0000
+    m_LastClickedID: 12052
+    m_ExpandedIDs: 00000000d82d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -378,7 +378,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005a2d0000
+    m_ExpandedIDs: 00000000d82d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -499,9 +499,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 90300000
-      m_LastClickedID: 12432
-      m_ExpandedIDs: 0efbffff8c30000090300000
+      m_SelectedIDs: 2abaffff
+      m_LastClickedID: -17878
+      m_ExpandedIDs: 2abaffff9ec5ffffa0c5ffff1ef0ffff20f0ffff28f1ffff46f5ffff48f5fffffcf7ffff00f9ffff1c31000020310000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -561,9 +561,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.09518644, y: -4.333275, z: -1.1717882}
+    m_Target: {x: -0.21289062, y: -1.7375488, z: -0.9123535}
     speed: 2
-    m_Value: {x: -0.09518644, y: -4.333275, z: -1.1717882}
+    m_Value: {x: -0.21289062, y: -1.7375488, z: -0.9123535}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -592,13 +592,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+    m_Target: {x: -0.111770295, y: -0.75038946, z: 0.13143483, w: -0.63810116}
     speed: 2
-    m_Value: {x: -0.7071068, y: -3.6145584e-10, z: -7.3527767e-10, w: 0.7071068}
+    m_Value: {x: -0.111571625, y: -0.75133634, z: 0.13160068, w: -0.6369669}
   m_Size:
-    m_Target: 4.605267
+    m_Target: 4.657978
     speed: 2
-    m_Value: 4.9052672
+    m_Value: 4.457395
   m_Ortho:
     m_Target: 1
     speed: 2
