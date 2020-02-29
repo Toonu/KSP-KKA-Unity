@@ -337,20 +337,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/AGM-12C
+    - Assets/Kh-66
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/AGM-12C
+  - Assets/Kh-66
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Toonu\OneDrive\PycharmProjects\NoU KSP Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 962e0000
-    m_LastClickedID: 11926
-    m_ExpandedIDs: 000000004c2d000000ca9a3b
+    m_SelectedIDs: fc2d0000
+    m_LastClickedID: 11772
+    m_ExpandedIDs: 00000000542d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -378,7 +378,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004c2d0000
+    m_ExpandedIDs: 00000000542d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -406,7 +406,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300003e300000d02f0000982d00007c2d00005a2f0000
+    m_ExpandedInstanceIDs: c62300003e300000d02f0000982d00007c2d00005a2f00006e2d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -499,23 +499,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 40320000
-      m_LastClickedID: 12864
-      m_ExpandedIDs: 6cfbffffe83100001432000040320000
+      m_SelectedIDs: 5a320000
+      m_LastClickedID: 12890
+      m_ExpandedIDs: 64fbffffd63100001632000048320000a4320000b032000038330000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: rotationTransform
-        m_OriginalName: rotationTransform
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 12776
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -561,9 +561,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 6.38457, y: 1.2912179, z: 0.40207267}
+    m_Target: {x: -7.0461435, y: -9.940309, z: 56.681686}
     speed: 2
-    m_Value: {x: 6.38457, y: 1.2912179, z: 0.40207267}
+    m_Value: {x: -7.0461435, y: -9.940309, z: 56.681686}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -592,13 +592,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.05661278, y: 0.68502057, z: 0.053541455, w: 0.7243497}
+    m_Target: {x: -0.08528705, y: 0.04956404, z: -0.004355287, w: -0.99514014}
     speed: 2
-    m_Value: {x: -0.05544716, y: 0.68618345, z: 0.052596893, w: 0.7234026}
+    m_Value: {x: -0.08674921, y: 0.055525105, z: -0.0049501, w: -0.99466926}
   m_Size:
-    m_Target: 8.886456
+    m_Target: 62.208706
     speed: 2
-    m_Value: 9.305189
+    m_Value: 59.52986
   m_Ortho:
     m_Target: 0
     speed: 2
