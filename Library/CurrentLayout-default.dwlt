@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 82
+  controlID: 58
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-  controlID: 32
+  controlID: 59
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -337,36 +337,36 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Kh-66
+    - Assets/R-X
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Kh-66
+  - Assets/R-X
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Toonu\OneDrive\PycharmProjects\NoU KSP Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 151}
-    m_SelectedIDs: f82d0000
-    m_LastClickedID: 11768
-    m_ExpandedIDs: 00000000442d000000ca9a3b
+    scrollPos: {x: 0, y: 87}
+    m_SelectedIDs: 20350000
+    m_LastClickedID: 13600
+    m_ExpandedIDs: 000000004a2d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: AIM-4A
+      m_OriginalName: AIM-4A
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 12510
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -378,7 +378,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000442d0000
+    m_ExpandedIDs: 000000004a2d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -405,7 +405,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300003e300000d02f0000982d00007c2d00005a2f00006e2d00006e340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -499,9 +499,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: be310000
-      m_LastClickedID: 12734
-      m_ExpandedIDs: 78fbffffaa310000ba310000be310000d4310000dc310000ee310000fa3100001a3200004e3200005a320000963200009a32000006330000
+      m_SelectedIDs: 18320000
+      m_LastClickedID: 12824
+      m_ExpandedIDs: e486ffff8ea5ffff96c8ffff76fbffffbc310000cc310000da310000e2310000e6310000ee3100000032000004320000083200000c32000018320000303200005832000060320000ac320000b0320000bc3200000033000004330000083300000c3300002c330000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -561,9 +561,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.4094446, y: -1.7059588, z: 1.7892935}
+    m_Target: {x: 9.493713, y: -2.8024256, z: -1.9339566}
     speed: 2
-    m_Value: {x: -3.4094446, y: -1.7059588, z: 1.7892935}
+    m_Value: {x: 9.493713, y: -2.8024256, z: -1.9339566}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -592,13 +592,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.156829, y: 0.56786853, z: -0.11127564, w: -0.80034703}
+    m_Target: {x: 0.06731791, y: 0.7695309, z: -0.08226639, w: 0.62970275}
     speed: 2
-    m_Value: {x: -0.15716152, y: 0.56546277, z: -0.11080423, w: -0.802044}
+    m_Value: {x: 0.067070715, y: 0.7714155, z: -0.08246786, w: 0.62739044}
   m_Size:
-    m_Target: 5.7006106
+    m_Target: 12.729444
     speed: 2
-    m_Value: 6.000611
+    m_Value: 13.32926
   m_Ortho:
     m_Target: 0
     speed: 2
