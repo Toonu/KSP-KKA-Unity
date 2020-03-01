@@ -9,6 +9,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Material8T
     second: {fileID: 2100000, guid: 05a55d8933ed14740b0bb342e90a7e38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R8T
+    second: {fileID: 2100000, guid: f3ae21154d13ed8438d5f539f2ca9084, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

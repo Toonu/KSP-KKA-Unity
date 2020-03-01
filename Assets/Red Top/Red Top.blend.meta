@@ -9,6 +9,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Material.001
     second: {fileID: 2100000, guid: dc06139b9c1395e48b13fdf1bc73adb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RedTop
+    second: {fileID: 2100000, guid: 6b4f7108ba20e2848b30d6db6e2df302, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
