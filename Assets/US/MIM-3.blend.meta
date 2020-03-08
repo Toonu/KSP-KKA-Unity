@@ -9,6 +9,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: MIM-3
     second: {fileID: 2100000, guid: 8b76b1612a416d14ebf256a5b2d32184, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MIM-3Mat
+    second: {fileID: 2100000, guid: c5cc8cb9edbaa0e41a44435a326d4770, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
