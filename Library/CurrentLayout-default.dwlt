@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 125
+  controlID: 126
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -337,34 +337,34 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/RF
+    - Assets/US
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/RF
+  - Assets/US
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Toonu\OneDrive\GitProjects\KSP-NoU-Mod
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 87}
-    m_SelectedIDs: 68310000
-    m_LastClickedID: 12648
-    m_ExpandedIDs: 00000000022f000000ca9a3b
+    scrollPos: {x: 0, y: 103}
+    m_SelectedIDs: c02f0000
+    m_LastClickedID: 12224
+    m_ExpandedIDs: 00000000462d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: SquadCore
+      m_OriginalName: SquadCore
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 11872
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
@@ -378,7 +378,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000022f0000
+    m_ExpandedIDs: 00000000462d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -499,9 +499,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 44350000
-      m_LastClickedID: 13636
-      m_ExpandedIDs: 3ef7ffff6e330000923300004c3400001e350000
+      m_SelectedIDs: a681ffff
+      m_LastClickedID: -32346
+      m_ExpandedIDs: a681ffffa881ffff8691ffff16b3ffffc8c7ffffccc7ffffded1ffff6cd5ffff70d5ffff74d5ffff78fbffff28320000da32000066330000bc330000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -561,9 +561,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.2303145, y: -0.47388095, z: 0.5962933}
+    m_Target: {x: 0.63427734, y: -1.1678467, z: 0.63671875}
     speed: 2
-    m_Value: {x: -2.2303145, y: -0.47388095, z: 0.5962933}
+    m_Value: {x: 0.63427734, y: -1.1678467, z: 0.63671875}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -584,25 +584,25 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
     yGrid:
-      m_Target: 1
+      m_Target: 0
       speed: 2
-      m_Value: 1
+      m_Value: 0
     zGrid:
       m_Target: 0
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.069449335, y: -0.59869057, z: 0.052217994, w: 0.7962569}
+    m_Target: {x: 0.07043438, y: -0.014361661, z: 0.0010142069, w: 0.99741304}
     speed: 2
-    m_Value: {x: -0.069449335, y: 0.59869057, z: -0.052217994, w: -0.7962569}
+    m_Value: {x: 0.07193038, y: -0.014360117, z: 0.0010357478, w: 0.9973058}
   m_Size:
-    m_Target: 3.6978588
+    m_Target: 5.0738792
     speed: 2
-    m_Value: 3.3978589
+    m_Value: 4.8553867
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_CameraSettings:
     m_Speed: 1
     m_SpeedNormalized: 0.49999997
