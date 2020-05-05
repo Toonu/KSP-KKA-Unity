@@ -1,9 +1,14 @@
 fileFormatVersion: 2
-guid: e62da9957d150a445886fb9aafbdf1c6
+guid: fde2941c95a15764e8ae275279c563a9
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 9M14Malyutka
+    second: {fileID: 2100000, guid: c89f594b3af6d3143a8b93b9ccd65d95, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -61,14 +66,14 @@ ModelImporter:
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 0
+    normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 3
