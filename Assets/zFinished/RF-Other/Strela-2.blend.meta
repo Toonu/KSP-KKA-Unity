@@ -1,8 +1,59 @@
 fileFormatVersion: 2
 guid: 01163bcebe71cc548b71784ebc2d640b
 ModelImporter:
-  serializedVersion: 26
-  internalIDToNameTable: []
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 3286604164478032327
+    second: deploy
+  - first:
+      74: 3531636733517447257
+    second: Strela-2.001|Strela-2.002Action
+  - first:
+      74: -8847091306164807011
+    second: Strela-2.001|Strela-2.003Action
+  - first:
+      74: 9076578370551148458
+    second: Strela-2.001|Strela-2.004Action
+  - first:
+      74: 862488191546263426
+    second: Strela-2.002|Strela-2.001Action
+  - first:
+      74: 5040501390393408481
+    second: Strela-2.002|Strela-2.002Action
+  - first:
+      74: -4831467389664260267
+    second: Strela-2.002|Strela-2.003Action
+  - first:
+      74: -3356575530700187382
+    second: Strela-2.002|Strela-2.004Action
+  - first:
+      74: -7228376889760453980
+    second: Strela-2.003|Strela-2.001Action
+  - first:
+      74: 7164815931942770315
+    second: Strela-2.003|Strela-2.002Action
+  - first:
+      74: 7083414098599132069
+    second: Strela-2.003|Strela-2.003Action
+  - first:
+      74: 8425675460508041498
+    second: Strela-2.003|Strela-2.004Action
+  - first:
+      74: 396738945621864371
+    second: Strela-2.004|Strela-2.001Action
+  - first:
+      74: 6642728850569282261
+    second: Strela-2.004|Strela-2.002Action
+  - first:
+      74: -5921637712660780280
+    second: Strela-2.004|Strela-2.003Action
+  - first:
+      74: -2583956659993825106
+    second: Strela-2.004|Strela-2.004Action
+  - first:
+      74: -68731954260402754
+    second: deploy
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -10,7 +61,7 @@ ModelImporter:
       name: Strela-2
     second: {fileID: 2100000, guid: 15f1ddc47174c9b408a4ce8c99aeea70, type: 2}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -35,7 +86,36 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: deploy
+      takeName: Strela-2.001|Strela-2.002Action
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 0
   meshes:
     lODScreenPercentages: []
@@ -73,8 +153,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 0
-  copyAvatar: 0
+  importAnimation: 1
   humanDescription:
     serializedVersion: 3
     human: []
@@ -87,13 +166,15 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     globalScale: 1
-    rootMotionBoneName: 
+    rootMotionBoneName: Strela-2
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
   humanoidOversampling: 1
+  avatarSetup: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
