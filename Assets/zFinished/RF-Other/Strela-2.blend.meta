@@ -91,8 +91,8 @@ ModelImporter:
       name: deploy
       takeName: Strela-2.001|Strela-2.002Action
       internalID: 0
-      firstFrame: 0
-      lastFrame: 21
+      firstFrame: 1
+      lastFrame: 10
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
