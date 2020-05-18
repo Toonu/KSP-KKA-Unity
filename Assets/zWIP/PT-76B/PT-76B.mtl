@@ -1,0 +1,98 @@
+newmtl _default_
+Kd 0.502 0.502 0.502 
+Ks 0.067 0.067 0.067 
+Ns 30
+
+newmtl material_0_887
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/pt_76b_body_c_ussr_camo_green.jpg
+map_Ks textures/pt_76b_body_n_s.jpg
+map_Ao textures/pt_76b_body_ao_ao.jpg
+
+newmtl material_1_888
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/pt_76b_gun_c_ussr_camo_green.jpg
+map_Ks textures/pt_76b_gun_n_s.jpg
+map_Ao textures/pt_76b_gun_ao_ao.jpg
+
+newmtl material_2_888
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/pt_76b_turret_c_ussr_camo_green.jpg
+map_Ks textures/pt_76b_turret_n_s.jpg
+map_Ao textures/pt_76b_turret_ao_ao.jpg
+
+newmtl material_3_888
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/mg_sgmt_c.jpg
+map_Ks textures/mg_sgmt_n_s.jpg
+
+newmtl material_6_889
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/headlight_glass_c.jpg
+map_Ks textures/headlight_glass_n_s.jpg
+
+newmtl material_5_889
+Kd 0.000 0.000 0.000 
+Ks 1.000 1.000 1.000 
+Ns 255
+map_Kd textures/headlight_glass_c.jpg
+map_Ks textures/headlight_glass_n_s.jpg
+map_d textures/headlight_glass_c_a.png
+
+newmtl material_7_889
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/pt_76b_body_at_c.jpg
+map_Ks textures/pt_76b_body_at_n_s.jpg
+map_Ao textures/pt_76b_body_at_ao_ao.jpg
+map_d textures/pt_76b_body_at_c_a.png
+
+newmtl material_8_889
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/net_f_c.jpg
+map_Ks textures/net_f_n_s.jpg
+map_Ao textures/net_f_ao_ao.jpg
+map_d textures/net_f_c_a.png
+
+newmtl material_9_889
+Kd 1.000 1.000 1.000 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/pt_76b_body_c.jpg
+map_Ks textures/pt_76b_body_n_s.jpg
+map_Ao textures/pt_76b_body_ao_ao.jpg
+map_emissive textures/pt_76b_body_c.jpg
+map_d textures/pt_76b_body_c_a.png
+
+newmtl material_10_889
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/ussr_pt_76b_track_c.jpg
+map_Ks textures/ussr_pt_76b_track_n_s.jpg
+map_Ao textures/ussr_pt_76b_track_ao_ao.jpg
+map_d textures/ussr_pt_76b_track_c_a.png
+
+newmtl material_4_890
+Kd 1.000 1.000 1.000 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/pt_76b_turret_c.jpg
+map_Ks textures/pt_76b_turret_n_s.jpg
+map_Ao textures/pt_76b_turret_ao_ao.jpg
+map_emissive textures/pt_76b_turret_c.jpg
+map_d textures/pt_76b_turret_c_a.png
+
