@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 98
+  controlID: 17
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -221,7 +221,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 99
+  controlID: 26
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 100
+  controlID: 27
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -340,22 +340,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/zFinished/Turrets/EBR-90
+    - Assets/zFinished/US-AIM Series
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/zFinished/Turrets/EBR-90
+  - Assets/zFinished/US-AIM Series
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\GitProjects\KSP-NoU-Mod
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 54}
-    m_SelectedIDs: 2e460000
-    m_LastClickedID: 17966
-    m_ExpandedIDs: 0000000018460000284600003046000000ca9a3b
+    scrollPos: {x: 0, y: 186}
+    m_SelectedIDs: 9e460000
+    m_LastClickedID: 18078
+    m_ExpandedIDs: 00000000604600007c4600008446000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -383,7 +383,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000018460000
+    m_ExpandedIDs: 0000000060460000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -507,9 +507,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: b83e0000
-      m_LastClickedID: 16056
-      m_ExpandedIDs: 5efbffffa83d0000
+      m_SelectedIDs: a0f5ffff
+      m_LastClickedID: -2656
+      m_ExpandedIDs: a0f5ffffa2f5ffffe8faffff623a0000003c0000103c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -570,9 +570,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.042527914, y: -0.9287039, z: -1.1379317}
+    m_Target: {x: -0.2380811, y: 0.025376692, z: 0.18961084}
     speed: 2
-    m_Value: {x: 0.042527914, y: -0.9287039, z: -1.1379317}
+    m_Value: {x: -0.2380811, y: 0.025376692, z: 0.18961084}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -619,13 +619,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.0016833055, y: -0.99544066, z: 0.017919969, w: 0.09374771}
+    m_Target: {x: 0.02178144, y: -0.8541674, z: 0.035896152, w: 0.51830125}
     speed: 2
-    m_Value: {x: -0.0016833055, y: 0.99544066, z: -0.017919969, w: -0.09374772}
+    m_Value: {x: 0.021835247, y: -0.8533885, z: 0.035863418, w: 0.5195816}
   m_Size:
-    m_Target: 4.5382633
+    m_Target: 0.9382636
     speed: 2
-    m_Value: 4.5382633
+    m_Value: 0.9382636
   m_Ortho:
     m_Target: 0
     speed: 2
