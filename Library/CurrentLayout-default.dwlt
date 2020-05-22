@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 157
+  controlID: 102
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -221,7 +221,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 41
+  controlID: 55
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 42
+  controlID: 56
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -340,36 +340,36 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/zFinished/US-AIM Series
+    - Assets/zFinished/Turrets/T-62A
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/zFinished/US-AIM Series
+  - Assets/zFinished/Turrets/T-62A
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\GitProjects\KSP-NoU-Mod
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 74}
-    m_SelectedIDs: 62460000
-    m_LastClickedID: 18018
-    m_ExpandedIDs: 00000000444600005c46000000ca9a3b
+    scrollPos: {x: 0, y: 86}
+    m_SelectedIDs: 44470000
+    m_LastClickedID: 18244
+    m_ExpandedIDs: 00000000844600009a460000ac46000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Turrets
+      m_OriginalName: Turrets
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 18092
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
@@ -383,7 +383,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000044460000
+    m_ExpandedIDs: 0000000084460000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -410,7 +410,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300003e300000d02f0000982d00007c2d00005a2f00006e2d00006e34000050310000502d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -507,9 +507,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 1a3d0000
-      m_LastClickedID: 15642
-      m_ExpandedIDs: 5afbfffff23a0000ba3b0000d03b0000e03b00001a3d0000
+      m_SelectedIDs: a2420000
+      m_LastClickedID: 0
+      m_ExpandedIDs: f2f7ffff02f8ffff08f8ffff10f8ffff94fafffff2fafffffa3a0000063e00007a3e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -570,9 +570,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.00000017881393, y: -0.00000017881393, z: -0.10026026}
+    m_Target: {x: -0.4127748, y: -0.4473892, z: 0.43387628}
     speed: 2
-    m_Value: {x: 0.00000017881393, y: -0.00000017881393, z: -0.10026026}
+    m_Value: {x: -0.4127748, y: -0.4473892, z: 0.43387628}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -619,13 +619,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.02178144, y: -0.8541674, z: 0.035896152, w: 0.51830125}
+    m_Target: {x: 0.022319807, y: -0.933195, z: 0.058869194, w: 0.35381433}
     speed: 2
-    m_Value: {x: -0.021781424, y: 0.85416687, z: -0.03589613, w: -0.51830095}
+    m_Value: {x: 0.022408072, y: -0.93266267, z: 0.058835614, w: 0.35521352}
   m_Size:
-    m_Target: 1.539277
+    m_Target: 1.5392768
     speed: 2
-    m_Value: 1.539277
+    m_Value: 1.5392768
   m_Ortho:
     m_Target: 0
     speed: 2
