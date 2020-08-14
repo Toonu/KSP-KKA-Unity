@@ -1,0 +1,85 @@
+newmtl _default_
+Kd 0.502 0.502 0.502 
+Ks 0.067 0.067 0.067 
+Ns 30
+
+newmtl material_0_354
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/amx_30_body_c_fr_camo_vert_olive_arme.jpg
+map_Ks textures/amx_30_body_n_s.jpg
+map_Ao textures/amx_30_body_ao_ao.jpg
+
+newmtl material_1_355
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/amx_30_gun_c_fr_camo_vert_olive_arme.jpg
+map_Ks textures/amx_30_gun_n_s.jpg
+map_Ao textures/amx_30_gun_ao_ao.jpg
+
+newmtl material_2_355
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/rifled_barrel_a_c.jpg
+map_Ks textures/rifled_barrel_a_n_s.jpg
+
+newmtl material_3_355
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/amx_30_b2_parts_add_c_fr_camo_vert_olive_arme.jpg
+map_Ks textures/amx_30_b2_parts_add_n_s.jpg
+map_Ao textures/amx_30_b2_parts_add_ao_ao.jpg
+
+newmtl material_4_355
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/mg_aa_52_c_fr_camo_vert_olive_arme.jpg
+map_Ks textures/mg_aa_52_n_s.jpg
+map_Ao textures/mg_aa_52_ao_ao.jpg
+
+newmtl material_5_355
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/amx_30_turret_c_fr_camo_vert_olive_arme.jpg
+map_Ks textures/amx_30_turret_n_s.jpg
+map_Ao textures/amx_30_turret_ao_ao.jpg
+
+newmtl material_6_361
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/headlight_glass_c.jpg
+map_Ks textures/headlight_glass_n_s.jpg
+
+newmtl material_7_361
+Kd 0.000 0.000 0.000 
+Ks 1.000 1.000 1.000 
+Ns 255
+map_Kd textures/headlight_glass_c.jpg
+map_Ks textures/headlight_glass_n_s.jpg
+map_d textures/headlight_glass_c_a.png
+
+newmtl material_8_361
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/net_d_c.jpg
+map_Ks textures/net_d_n_s.jpg
+map_Ao textures/net_d_ao_ao.jpg
+map_d textures/net_d_c_a.png
+
+newmtl material_9_362
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/fr_amx_30_track_c.jpg
+map_Ks textures/fr_amx_30_track_n_s.jpg
+map_Ao textures/fr_amx_30_track_ao_ao.jpg
+map_d textures/fr_amx_30_track_c_a.png
+

@@ -1,0 +1,83 @@
+newmtl _default_
+Kd 0.502 0.502 0.502 
+Ks 0.067 0.067 0.067 
+Ns 30
+
+newmtl material_0_450
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/chieftain_mk_3_body_c_uk_camo_middle_deep_bronze_greens.jpg
+map_Ks textures/chieftain_mk_3_body_n_s.jpg
+map_Ao textures/chieftain_mk_3_body_ao_ao.jpg
+
+newmtl material_1_451
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/chieftain_mk_3_gun_c_uk_camo_middle_deep_bronze_greens.jpg
+map_Ks textures/chieftain_mk_3_gun_n_s.jpg
+map_Ao textures/chieftain_mk_3_gun_ao_ao.jpg
+
+newmtl material_2_451
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/rifled_barrel_b_c.jpg
+map_Ks textures/rifled_barrel_b_n_s.jpg
+
+newmtl material_3_451
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/chieftain_mk_3_turret_c_uk_camo_middle_deep_bronze_greens.jpg
+map_Ks textures/chieftain_mk_3_turret_n_s.jpg
+map_Ao textures/chieftain_mk_3_turret_ao_ao.jpg
+
+newmtl material_4_451
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/mg_l37a1_c.jpg
+map_Ks textures/mg_l37a1_n_s.jpg
+
+newmtl material_5_452
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/mg_l37a1_ammo_c.jpg
+map_Ks textures/mg_l37a1_ammo_n_s.jpg
+
+newmtl material_7_452
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/headlight_glass_c.jpg
+map_Ks textures/headlight_glass_n_s.jpg
+
+newmtl material_6_452
+Kd 0.000 0.000 0.000 
+Ks 1.000 1.000 1.000 
+Ns 255
+map_Kd textures/headlight_glass_c.jpg
+map_Ks textures/headlight_glass_n_s.jpg
+map_d textures/headlight_glass_c_a.png
+
+newmtl material_8_456
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/net_c_c.jpg
+map_Ks textures/net_c_n_s.jpg
+map_Ao textures/net_c_ao_ao.jpg
+map_d textures/net_c_c_a.png
+
+newmtl material_9_456
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/uk_chieftain_mk_3_track_c.jpg
+map_Ks textures/uk_chieftain_mk_3_track_n_s.jpg
+map_Ao textures/uk_chieftain_mk_3_track_ao_ao.jpg
+map_d textures/uk_chieftain_mk_3_track_c_a.png
+

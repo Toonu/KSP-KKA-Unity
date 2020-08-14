@@ -1,0 +1,85 @@
+newmtl _default_
+Kd 0.502 0.502 0.502 
+Ks 0.067 0.067 0.067 
+Ns 30
+
+newmtl material_0_752
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/leopard_1_a1_body_c_ger_camo_bronzegruen.jpg
+map_Ks textures/leopard_1_a1_body_n_s.jpg
+map_Ao textures/leopard_1_a1_body_ao_ao.jpg
+
+newmtl material_1_752
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/net_f_c.jpg
+map_Ks textures/net_f_n_s.jpg
+map_Ao textures/net_f_ao_ao.jpg
+map_d textures/net_f_c_a.png
+
+newmtl material_2_753
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/leopard_1_a1_turret_c_ger_camo_bronzegruen.jpg
+map_Ks textures/leopard_1_a1_turret_n_s.jpg
+map_Ao textures/leopard_1_a1_turret_ao_ao.jpg
+
+newmtl material_3_753
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/leopard_1_a1_gun_c_ger_camo_bronzegruen.jpg
+map_Ks textures/leopard_1_a1_gun_n_s.jpg
+map_Ao textures/leopard_1_a1_gun_ao_ao.jpg
+
+newmtl material_4_753
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/rifled_barrel_a_c.jpg
+map_Ks textures/rifled_barrel_a_n_s.jpg
+
+newmtl material_6_753
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/leopard_1_a1_body_armor_c_ger_camo_bronzegruen.jpg
+map_Ks textures/leopard_1_a1_body_armor_n_s.jpg
+map_Ao textures/leopard_1_a1_body_armor_ao_ao.jpg
+
+newmtl material_5_757
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/mg_mg_42_c.jpg
+map_Ks textures/mg_mg_42_n_s.jpg
+map_Ao textures/mg_mg_42_ao_ao.jpg
+map_d textures/mg_mg_42_c_a.png
+
+newmtl material_7_758
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/mg_mount_leopard_c_ger_camo_bronzegruen.jpg
+map_Ks textures/mg_mount_leopard_n_s.jpg
+map_Ao textures/mg_mount_leopard_ao_ao.jpg
+
+newmtl material_9_758
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/headlight_glass_c.jpg
+map_Ks textures/headlight_glass_n_s.jpg
+
+newmtl material_8_758
+Kd 0.000 0.000 0.000 
+Ks 1.000 1.000 1.000 
+Ns 255
+map_Kd textures/headlight_glass_c.jpg
+map_Ks textures/headlight_glass_n_s.jpg
+map_d textures/headlight_glass_c_a.png
+
