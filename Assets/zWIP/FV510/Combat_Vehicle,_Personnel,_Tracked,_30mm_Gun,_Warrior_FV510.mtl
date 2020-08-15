@@ -1,0 +1,104 @@
+newmtl _default_
+Kd 0.502 0.502 0.502 
+Ks 0.067 0.067 0.067 
+Ns 30
+
+newmtl material_0_962
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/fv510_isv_gun_c_uk_camo_very_dark_drab.jpg
+map_Ks textures/fv510_isv_gun_n_s.jpg
+map_Ao textures/fv510_isv_gun_ao_ao.jpg
+
+newmtl material_1_963
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/mg_l94a1_c.jpg
+map_Ks textures/mg_l94a1_n_s.jpg
+map_Ao textures/mg_l94a1_ao_ao.jpg
+map_d textures/mg_l94a1_c_a.png
+
+newmtl material_2_964
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/fv510_isv_turret_c_uk_camo_very_dark_drab.jpg
+map_Ks textures/fv510_isv_turret_n_s.jpg
+map_Ao textures/fv510_isv_turret_ao_ao.jpg
+
+newmtl material_3_965
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/net_d_c.jpg
+map_Ks textures/net_d_n_s.jpg
+map_Ao textures/net_d_ao_ao.jpg
+map_d textures/net_d_c_a.png
+
+newmtl material_4_965
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/milan_rocket_mount_c_uk_camo_very_dark_drab.jpg
+map_Ks textures/milan_rocket_mount_n_s.jpg
+map_Ao textures/milan_rocket_mount_ao_ao.jpg
+
+newmtl material_5_965
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/fv510_isv_body_c_uk_camo_very_dark_drab.jpg
+map_Ks textures/fv510_isv_body_n_s.jpg
+map_Ao textures/fv510_isv_body_ao_ao.jpg
+
+newmtl material_8_965
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/net_f_c.jpg
+map_Ks textures/net_f_n_s.jpg
+map_Ao textures/net_f_ao_ao.jpg
+map_d textures/net_f_c_a.png
+
+newmtl material_9_965
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/fv510_isv_armor_c_uk_camo_very_dark_drab.jpg
+map_Ks textures/fv510_isv_armor_n_s.jpg
+map_Ao textures/fv510_isv_armor_ao_ao.jpg
+
+newmtl material_7_965
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/headlight_glass_c.jpg
+map_Ks textures/headlight_glass_n_s.jpg
+
+newmtl material_6_965
+Kd 0.000 0.000 0.000 
+Ks 1.000 1.000 1.000 
+Ns 255
+map_Kd textures/headlight_glass_c.jpg
+map_Ks textures/headlight_glass_n_s.jpg
+map_d textures/headlight_glass_c_a.png
+
+newmtl material_10_966
+Kd 0.502 0.502 0.502 
+Ks 0.753 0.753 0.753 
+Ns 100
+map_Kd textures/metal_barrel_c_uk_camo_very_dark_drab.jpg
+map_Ks textures/metal_barrel_n_s.jpg
+map_Ao textures/metal_barrel_ao_ao.jpg
+
+newmtl material_11_966
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 20
+map_Kd textures/uk_fv510_isv_track_c.jpg
+map_Ks textures/uk_fv510_isv_track_n_s.jpg
+map_Ao textures/uk_fv510_isv_track_ao_ao.jpg
+map_d textures/uk_fv510_isv_track_c_a.png
+
