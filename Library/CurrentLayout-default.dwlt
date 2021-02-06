@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 88
+  controlID: 47
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -225,7 +225,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 89
+  controlID: 48
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 90
+  controlID: 49
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -344,36 +344,36 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/zWIP
+    - Assets/zWIP/Chieftain Mk 3
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/zWIP
+  - Assets/zWIP/Turrets/Chieftain Mk 3
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\GitProjects\KSP-NoU-Mod
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 221}
-    m_SelectedIDs: 80440000
-    m_LastClickedID: 17536
-    m_ExpandedIDs: 000000007c4400007e440000804400009a44000000ca9a3b
+    scrollPos: {x: 0, y: 477}
+    m_SelectedIDs: 96480000
+    m_LastClickedID: 18582
+    m_ExpandedIDs: 00000000204800002248000024480000264800002a48000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: EU-UK
-      m_OriginalName: EU-UK
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 17556
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
@@ -387,7 +387,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000007c4400007e44000080440000
+    m_ExpandedIDs: 0000000020480000224800002448000026480000284800002a480000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -414,7 +414,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300003e300000d02f0000982d00007c2d00005a2f00006e2d00006e34000050310000502d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -510,9 +510,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 94540000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 56fbffff
+      m_SelectedIDs: 423e0000
+      m_LastClickedID: 15938
+      m_ExpandedIDs: 56fbffff423e0000de3e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -573,9 +573,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.48326504, y: 0.3507493, z: -0.26191533}
+    m_Target: {x: 0.61556673, y: -0.2703148, z: -2.9402597}
     speed: 2
-    m_Value: {x: 0.48326504, y: 0.3507493, z: -0.26191533}
+    m_Value: {x: 0.61556673, y: -0.2703148, z: -2.9402597}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -622,13 +622,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.0059095263, y: -0.17282888, z: 0.0010369588, w: -0.98493457}
+    m_Target: {x: 0.851886, y: 0.04413398, z: 0.51688313, w: -0.07239869}
     speed: 2
-    m_Value: {x: -0.0059095263, y: -0.17282888, z: 0.0010369588, w: -0.98493457}
+    m_Value: {x: -0.8518859, y: -0.04413398, z: -0.5168831, w: 0.07239869}
   m_Size:
-    m_Target: 1.3287858
+    m_Target: 3.1355362
     speed: 2
-    m_Value: 1.3287858
+    m_Value: 3.1355362
   m_Ortho:
     m_Target: 1
     speed: 2
