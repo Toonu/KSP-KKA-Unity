@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Leopard1A1_753
-  m_Shader: {fileID: 4800000, guid: 610e63a3d30b8604bb67b4224c23d914, type: 3}
+  m_Shader: {fileID: 4800000, guid: eb694e6531825ce41bcd11360ea5c3fd, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -78,7 +78,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BurnColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 0.502, g: 0.502, b: 0.502, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _RimColor: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}

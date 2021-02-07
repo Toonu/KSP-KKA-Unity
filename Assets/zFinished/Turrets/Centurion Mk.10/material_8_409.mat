@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: material_8_409
-  m_Shader: {fileID: 4800000, guid: 4eb23d6a8a22cd2408ed28ac1ce15ed3, type: 3}
+  m_Shader: {fileID: 4800000, guid: eb694e6531825ce41bcd11360ea5c3fd, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -73,10 +73,12 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
+    - _UnderwaterFogFactor: 0
     - _ZWrite: 1
     m_Colors:
     - _BurnColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 0.502, g: 0.502, b: 0.502, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _RimColor: {r: 0, g: 0, b: 0, a: 0}
     - _TemperatureColor: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
