@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Inspector
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 46
+  controlID: 107
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,7 +150,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -225,7 +225,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 16
+  controlID: 116
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 17
+  controlID: 117
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -344,22 +344,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/zWIP
+    - Assets/zFinished/EU
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/zWIP
+  - Assets/zFinished/EU
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\GitProjects\KSP-NoU-Mod
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 369}
-    m_SelectedIDs: fc4c0000
-    m_LastClickedID: 19708
-    m_ExpandedIDs: 00000000f84c0000fa4c0000fc4c0000fe4c000000ca9a3b
+    scrollPos: {x: 0, y: 109}
+    m_SelectedIDs: 2c4b0000
+    m_LastClickedID: 19244
+    m_ExpandedIDs: 00000000144b0000164b0000184b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -387,7 +387,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f84c0000fa4c0000fc4c0000fe4c0000
+    m_ExpandedIDs: 00000000144b0000164b0000184b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -414,7 +414,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300003e300000d02f0000982d00007c2d00005a2f00006e2d00006e34000050310000502d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -439,7 +439,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 16}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 426
@@ -510,23 +510,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 123e0000
-      m_LastClickedID: 15890
-      m_ExpandedIDs: a0f2ffffa4f2ffffb0f2ffffb4f2ffff04f5fffffef8ffff123e00009c410000
+      m_SelectedIDs: 2c3c0000
+      m_LastClickedID: 15404
+      m_ExpandedIDs: 1cfbffff56fbffffd83a00001e3c00002c3c0000b2410000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Bloodhound
+        m_OriginalName: Bloodhound
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 15404
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 4
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -573,9 +573,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.12289685, y: -1.6188364, z: -3.5287077}
+    m_Target: {x: -0.064160824, y: 0.067543924, z: -2.5001621}
     speed: 2
-    m_Value: {x: 0.12289685, y: -1.6188364, z: -3.5287077}
+    m_Value: {x: -0.064160824, y: 0.067543924, z: -2.5001621}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -622,13 +622,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.9677246, y: 0.030553218, z: 0.2038285, w: -0.14506617}
+    m_Target: {x: -0.011794541, y: -0.6993476, z: -0.011538379, w: 0.7146161}
     speed: 2
-    m_Value: {x: 0.96762717, y: 0.030462598, z: 0.20532429, w: -0.14356786}
+    m_Value: {x: 0.011794541, y: 0.6993476, z: 0.011538379, w: -0.7146161}
   m_Size:
-    m_Target: 3.2868516
+    m_Target: 0.89564824
     speed: 2
-    m_Value: 3.2868516
+    m_Value: 0.93785155
   m_Ortho:
     m_Target: 1
     speed: 2
