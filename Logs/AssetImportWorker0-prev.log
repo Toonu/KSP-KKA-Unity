@@ -1,0 +1,623 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 32699 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/GitProjects/KSP-NoU-Mod
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55238
+Successfully changed project path to: D:/GitProjects/KSP-NoU-Mod
+D:/GitProjects/KSP-NoU-Mod
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 35.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GitProjects/KSP-NoU-Mod/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.6663
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56928
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002770 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 32.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.172 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002179 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of KSPFontAsset:.ctor due to: Could not load file or assembly 'TextMeshPro-2017.1-1.0.56-Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:TextMeshPro-2017.1-1.0.56-Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Assets/Plugins/KSPAssets/KSPAssetCompiler.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.834 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1147 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.7 MB.
+System memory in use after: 100.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1631.
+Total: 2.182400 ms (FindLiveObjects: 0.162800 ms CreateObjectMapping: 0.064000 ms MarkObjects: 1.793700 ms  DeleteObjects: 0.160900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/zFinished/Turrets/T-54 (1951)/material_12_749.mat
+  artifactKey: Guid(6ce676cd64d14b548b0a2066444a4a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/T-54 (1951)/material_12_749.mat using Guid(6ce676cd64d14b548b0a2066444a4a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7261e78f3094b291eceda390ca699b0') in 0.134133 seconds
+  Import took 0.136360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 181.198755 seconds.
+  path: Assets/zFinished/Turrets/T-54 (1951)/T-54 (1951) Gun Lite.blend
+  artifactKey: Guid(b80cd5b90884e3f4c941e6626f60ba3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/T-54 (1951)/T-54 (1951) Gun Lite.blend using Guid(b80cd5b90884e3f4c941e6626f60ba3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc246d0d5d2355bf334b58bb2980c839') in 0.072600 seconds
+  Import took 0.074984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 599.407615 seconds.
+  path: Assets/Distribution/NoU/Missiles/RIM-2.dds
+  artifactKey: Guid(f33ee1a24f502e4419df3cbb54a49f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Missiles/RIM-2.dds using Guid(f33ee1a24f502e4419df3cbb54a49f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41f525b70db5e2ba00d18aff8f70da81') in 0.512671 seconds
+  Import took 0.514999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Distribution/NoU/Flags/RJH.dds
+  artifactKey: Guid(b7f7c55e673402c42966a9fa2b5b6603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Flags/RJH.dds using Guid(b7f7c55e673402c42966a9fa2b5b6603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '962ef1a0c3f58de2a979de5bcbdbb422') in 0.135009 seconds
+  Import took 0.136904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/zFinished/Turrets/T-62A/T62A_turret_01_AM.jpg
+  artifactKey: Guid(43dd3b81bdbce344382b5540a11f9606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/T-62A/T62A_turret_01_AM.jpg using Guid(43dd3b81bdbce344382b5540a11f9606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e456ae721a6fa967f12bfeecd022e209') in 0.090284 seconds
+  Import took 0.092177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/zFinished/Turrets/M60A1/textures/us_turret_glass_c.jpg
+  artifactKey: Guid(81350ba0be57a8042a7e59bf9ba4ff25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/M60A1/textures/us_turret_glass_c.jpg using Guid(81350ba0be57a8042a7e59bf9ba4ff25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a953c7829ef4a44e7b026da2b68b4396') in 0.056640 seconds
+  Import took 0.058595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/zFinished/Turrets/M60A2/textures/us_turret_glass_c.jpg
+  artifactKey: Guid(a4c38d6fa1a54c047b788a9dd14bedab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/M60A2/textures/us_turret_glass_c.jpg using Guid(a4c38d6fa1a54c047b788a9dd14bedab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3ae6de1dec058e894a6e44e7e592b60') in 0.005798 seconds
+  Import took 0.007633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Distribution/NoU/Missiles/Velvet Glove.dds
+  artifactKey: Guid(30a7a44f083cf4a44b9038ac0055a7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Missiles/Velvet Glove.dds using Guid(30a7a44f083cf4a44b9038ac0055a7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a26359bbb34e197933c17b9a9949f91') in 0.300382 seconds
+  Import took 0.302265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Distribution/NoU/Turrets/T62A_turret_01_AM.dds
+  artifactKey: Guid(7ddc55531729b7e4a9dfcf0d810d4d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/T62A_turret_01_AM.dds using Guid(7ddc55531729b7e4a9dfcf0d810d4d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c45420500c6a49b3b1b0ae2af05001e8') in 0.120847 seconds
+  Import took 0.122938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Distribution/NoU/Turrets/T62A_guns_Normal.dds
+  artifactKey: Guid(373deaf479a9c83448d1e5a4f35ca64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/T62A_guns_Normal.dds using Guid(373deaf479a9c83448d1e5a4f35ca64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f38a349d31c197302edbe0f727385c1') in 0.063497 seconds
+  Import took 0.083239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Distribution/NoU/EW/rails/texture.png
+  artifactKey: Guid(a8ef885ba98b9a34f8fc649aa3449d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/EW/rails/texture.png using Guid(a8ef885ba98b9a34f8fc649aa3449d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc7737a7300ff090f2784675a271458f') in 0.115339 seconds
+  Import took 0.117323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Distribution/NoU/Turrets/us_turret_glass_c.dds
+  artifactKey: Guid(fd082bb81d2791b4491754c694865997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/us_turret_glass_c.dds using Guid(fd082bb81d2791b4491754c694865997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58eead1e0ab8df95ba6396d3931436b8') in 0.033000 seconds
+  Import took 0.034857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Distribution/NoU/Turrets/t_54_1951_gun_c_ussr_camo_green.dds
+  artifactKey: Guid(3ed4653e9407de848b80d58d8d8bb493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/t_54_1951_gun_c_ussr_camo_green.dds using Guid(3ed4653e9407de848b80d58d8d8bb493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f9e2dda821fe20715ddf3a4849ed8c') in 0.096630 seconds
+  Import took 0.098581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Distribution/NoU/Turrets/T62A_turret_01_Normal.dds
+  artifactKey: Guid(2ce4ce67d3998ea409b3b92f515b7fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/T62A_turret_01_Normal.dds using Guid(2ce4ce67d3998ea409b3b92f515b7fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5211a41f85447a7f80dd559c9268f351') in 0.095695 seconds
+  Import took 0.097887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Distribution/NoU/Missiles/Swingfire.dds
+  artifactKey: Guid(35a96da47fe0d6846b65ff8bae1bd172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Missiles/Swingfire.dds using Guid(35a96da47fe0d6846b65ff8bae1bd172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18f071cfa7a005dfa14976550f29c44c') in 0.121135 seconds
+  Import took 0.123495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Distribution/NoU/Missiles/RIM24.dds
+  artifactKey: Guid(07bc944fb9a31544eb18684207f3a340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Missiles/RIM24.dds using Guid(07bc944fb9a31544eb18684207f3a340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63b023f35eab60c5669131fa591614b8') in 0.469706 seconds
+  Import took 0.471872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Distribution/NoU/Turrets/T62A_guns_AM.dds
+  artifactKey: Guid(c3bf37a433523bd4d86226a2f7f77afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/T62A_guns_AM.dds using Guid(c3bf37a433523bd4d86226a2f7f77afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '907942830b3dbd59204befaa323b24df') in 0.075869 seconds
+  Import took 0.078037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Distribution/NoU/Missiles/RIM24.dds
+  artifactKey: Guid(07bc944fb9a31544eb18684207f3a340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Missiles/RIM24.dds using Guid(07bc944fb9a31544eb18684207f3a340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63b023f35eab60c5669131fa591614b8') in 0.006014 seconds
+  Import took 0.007875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/zFinished/Turrets/Centurion Mk.10/us_net_tile_roll_c_uk_camo_very_dark_drab.jpg
+  artifactKey: Guid(221da42f3fc49014fa251309fa905efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/Centurion Mk.10/us_net_tile_roll_c_uk_camo_very_dark_drab.jpg using Guid(221da42f3fc49014fa251309fa905efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5024a87d1f80563078d21e7c7e694f87') in 0.077282 seconds
+  Import took 0.079164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Distribution/NoU/Turrets/us_net_tile_c.dds
+  artifactKey: Guid(0cc18f37ec71331448bbed576d44e8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/us_net_tile_c.dds using Guid(0cc18f37ec71331448bbed576d44e8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f84cfd90960ce53a8d9117da9b5588e') in 0.102356 seconds
+  Import took 0.104699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Distribution/NoU/Turrets/t_54_1951_turret_c_ussr_camo_green.dds
+  artifactKey: Guid(e945cacdca8c7da4b82076efbd4a0486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/t_54_1951_turret_c_ussr_camo_green.dds using Guid(e945cacdca8c7da4b82076efbd4a0486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b96aae7610ead9f39d61d649b0b4da17') in 0.005416 seconds
+  Import took 0.007357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/zFinished/Turrets/Centurion Mk.10/us_net_tile_c.jpg
+  artifactKey: Guid(f8aebdc563631bf409511705614633ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/Centurion Mk.10/us_net_tile_c.jpg using Guid(f8aebdc563631bf409511705614633ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12ea2d6d730e03280e2c031424a4f8fc') in 0.120202 seconds
+  Import took 0.399742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Distribution/NoU/Exhaust/tex_smokeExhaust.png
+  artifactKey: Guid(714fb5a08f2480d4b8e21377fa1bc8dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Exhaust/tex_smokeExhaust.png using Guid(714fb5a08f2480d4b8e21377fa1bc8dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d7578f82c075c132f41e03572b5a7f5') in 0.130105 seconds
+  Import took 0.132251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/zFinished/Turrets/T-62A/T62A_guns_AM.jpg
+  artifactKey: Guid(f607b40f984242241a48f7616a79ad3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/T-62A/T62A_guns_AM.jpg using Guid(f607b40f984242241a48f7616a79ad3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11752cbbd7231e6dccc45da4a17e6fe6') in 0.028630 seconds
+  Import took 0.030830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Distribution/NoU/Turrets/us_net_tile_roll_c_uk_camo_very_dark_drab.dds
+  artifactKey: Guid(174fe623ba9c7b247a5d40d082de4722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/us_net_tile_roll_c_uk_camo_very_dark_drab.dds using Guid(174fe623ba9c7b247a5d40d082de4722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f57bba5a497624fb32883e8eafb6a95e') in 0.051839 seconds
+  Import took 0.053838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/zFinished/Turrets/T-54 (1951)/textures/t_54_1951_gun_c_ussr_camo_green.jpg
+  artifactKey: Guid(321cd06b87be677429f700b59fe95666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/T-54 (1951)/textures/t_54_1951_gun_c_ussr_camo_green.jpg using Guid(321cd06b87be677429f700b59fe95666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddbfbd51480afd1d1e2f479b2c6cc8eb') in 0.017290 seconds
+  Import took 0.019269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.501665 seconds.
+  path: Assets/Distribution/NoU/Missiles/R-8.dds
+  artifactKey: Guid(831c9b27c5b95d342a77e088c4633f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Missiles/R-8.dds using Guid(831c9b27c5b95d342a77e088c4633f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51b8a9713d8aa31c1f083c0111739e01') in 0.432704 seconds
+  Import took 0.434902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Distribution/NoU/Missiles/R.530.dds
+  artifactKey: Guid(f28ddeeb6bab7624d9d0f364d997c77e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Missiles/R.530.dds using Guid(f28ddeeb6bab7624d9d0f364d997c77e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd431e4f3b681e498db6894207d863e4') in 0.178460 seconds
+  Import took 0.180346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/zFinished/Turrets/T-54 (1951)/textures/rifled_barrel_c_c.jpg
+  artifactKey: Guid(eeec2a63182cdd249b10dfe53756a84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/T-54 (1951)/textures/rifled_barrel_c_c.jpg using Guid(eeec2a63182cdd249b10dfe53756a84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d90a5e383a4f2677105b274b152b0b7') in 0.005172 seconds
+  Import took 0.007136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/zFinished/Turrets/Leopard 1/textures/rifled_barrel_c_c.jpg
+  artifactKey: Guid(1b5d12d9da186bf4b8301f01b88fd808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/Leopard 1/textures/rifled_barrel_c_c.jpg using Guid(1b5d12d9da186bf4b8301f01b88fd808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '955ffda64c381bf39791c7fe4389ba8e') in 0.004645 seconds
+  Import took 0.006762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Distribution/NoU/Missiles/Red Top.dds
+  artifactKey: Guid(63f127354f179a94a8a0c3ae6665fa4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Missiles/Red Top.dds using Guid(63f127354f179a94a8a0c3ae6665fa4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86a25b0f480859c8b2e3eb35dc37ae7b') in 0.077771 seconds
+  Import took 0.079817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/zFinished/Turrets/M551/textures/rifled_barrel_c_c.jpg
+  artifactKey: Guid(44fbc0f3bbc0d1b46b4e3f821a0495de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/M551/textures/rifled_barrel_c_c.jpg using Guid(44fbc0f3bbc0d1b46b4e3f821a0495de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32887da73a0295886fb2f0c3ab184bbb') in 0.004882 seconds
+  Import took 0.006721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Distribution/NoU/Turrets/rifled_barrel_b_c.dds
+  artifactKey: Guid(a78646adc8f34834295587786a059207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/rifled_barrel_b_c.dds using Guid(a78646adc8f34834295587786a059207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26f3688ec316b29e0269c43de5d8fdc') in 0.031965 seconds
+  Import took 0.033899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/zFinished/Turrets/Chieftain Mk 3/textures/rifled_barrel_b_c.jpg
+  artifactKey: Guid(7fda2434ae0dfe749ad89d3c7b8a016c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/Chieftain Mk 3/textures/rifled_barrel_b_c.jpg using Guid(7fda2434ae0dfe749ad89d3c7b8a016c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09b3c6af5b76200623420f63f22f0684') in 0.016661 seconds
+  Import took 0.018827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/zFinished/Turrets/Leopard A1A1/textures/rifled_barrel_a_c.jpg
+  artifactKey: Guid(26f92ed90708ce74094d26582b240bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/Leopard A1A1/textures/rifled_barrel_a_c.jpg using Guid(26f92ed90708ce74094d26582b240bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e7003e655317172bf20c6bce14a266a') in 0.027824 seconds
+  Import took 0.029711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Distribution/NoU/Missiles/R-23.dds
+  artifactKey: Guid(e9f468e6581022749b3198b83575ac13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Missiles/R-23.dds using Guid(e9f468e6581022749b3198b83575ac13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c75ac00f8bb877b0d74c067af56f8176') in 0.154443 seconds
+  Import took 0.156451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/zFinished/Turrets/M60A1/textures/rifled_barrel_a_c.jpg
+  artifactKey: Guid(4f2f4967ab70d18478d12db601a141af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/M60A1/textures/rifled_barrel_a_c.jpg using Guid(4f2f4967ab70d18478d12db601a141af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfc328d016071cd981d8b489b5d8288a') in 0.011112 seconds
+  Import took 0.013062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Distribution/NoU/Missiles/R.511.dds
+  artifactKey: Guid(cfe17545e279d61449d8a9ad5be41801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Missiles/R.511.dds using Guid(cfe17545e279d61449d8a9ad5be41801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b47166e28ca678c417963a3d269d8ce9') in 0.178993 seconds
+  Import took 0.181115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/zFinished/Turrets/M48A1/textures/rifled_barrel_c_c.jpg
+  artifactKey: Guid(22053fcf0cf20144cb8ca862445e9029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/M48A1/textures/rifled_barrel_c_c.jpg using Guid(22053fcf0cf20144cb8ca862445e9029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ef6d2b0597bbfc443e1312fe713a28c') in 0.016812 seconds
+  Import took 0.018766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Distribution/NoU/Turrets/rifled_barrel_a_c.dds
+  artifactKey: Guid(b66cad627b902da469d760b5dbd55c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/rifled_barrel_a_c.dds using Guid(b66cad627b902da469d760b5dbd55c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd917abb24fa6eb278781aa3e174e7f82') in 0.040757 seconds
+  Import took 0.042928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/zFinished/Turrets/M60A2/textures/rifled_barrel_a_c.jpg
+  artifactKey: Guid(5708da8c4c71bd84e8317adcf68b545b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/M60A2/textures/rifled_barrel_a_c.jpg using Guid(5708da8c4c71bd84e8317adcf68b545b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb27fc866ef0ac543ff7c59dadc9b03d') in 0.018752 seconds
+  Import took 0.020651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/zFinished/Turrets/AMX-30/textures/rifled_barrel_a_c.jpg
+  artifactKey: Guid(35e2cefaad19c0541a5e696df4a716fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/AMX-30/textures/rifled_barrel_a_c.jpg using Guid(35e2cefaad19c0541a5e696df4a716fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2b1e0ead58af8c4a0b96fd060af0878') in 0.015630 seconds
+  Import took 0.017519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/zFinished/Turrets/Centurion Mk.10/rifled_barrel_c_c.jpg
+  artifactKey: Guid(b4faf0909d7d33346b19e4ef1c4fbd8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/Centurion Mk.10/rifled_barrel_c_c.jpg using Guid(b4faf0909d7d33346b19e4ef1c4fbd8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18a5df1a66eab563f8553ea27e5a87be') in 0.024538 seconds
+  Import took 0.026874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Distribution/NoU/Missiles/RB04C.dds
+  artifactKey: Guid(ddc3d538529e1624d8ff549cdf6599d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Missiles/RB04C.dds using Guid(ddc3d538529e1624d8ff549cdf6599d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4110c48abe3e216438828bcdb6bff212') in 0.118400 seconds
+  Import took 0.120331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Distribution/NoU/Turrets/rifled_barrel_c_c.dds
+  artifactKey: Guid(82eecb32cfcc83643b4559651961a6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/rifled_barrel_c_c.dds using Guid(82eecb32cfcc83643b4559651961a6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7a0f94cd5a090f00a94966087383404') in 0.024827 seconds
+  Import took 0.026829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.705085 seconds.
+  path: Assets/Distribution/NoU/Turrets/mg_sgmt_c.dds
+  artifactKey: Guid(fbecc46b2ee48eb4d904db30260cf103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/mg_sgmt_c.dds using Guid(fbecc46b2ee48eb4d904db30260cf103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6be15616ea6c1b478f15af9fae66090') in 0.080335 seconds
+  Import took 0.082554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/zFinished/Turrets/Centurion Mk.10/mk_10_centurion_turret_c_uk_camo_very_dark_drab.jpg
+  artifactKey: Guid(298567e50639fe447aab3e612c380644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/Centurion Mk.10/mk_10_centurion_turret_c_uk_camo_very_dark_drab.jpg using Guid(298567e50639fe447aab3e612c380644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d33072f10c0a3de5550ce0b0f7adef5') in 0.061503 seconds
+  Import took 0.063405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Distribution/NoU/Turrets/mk_10_centurion_gun_c_uk_camo_very_dark_drab.dds
+  artifactKey: Guid(096c48cb743ed1a419f3fdea4aa60a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/mk_10_centurion_gun_c_uk_camo_very_dark_drab.dds using Guid(096c48cb743ed1a419f3fdea4aa60a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a2640942ff06d8ed736e168337914d3') in 0.253164 seconds
+  Import took 0.255132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Distribution/NoU/Turrets/pt_76b_gun_c_ussr_camo_green.dds
+  artifactKey: Guid(39d8a80c033b3d843b911d652fe558e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/pt_76b_gun_c_ussr_camo_green.dds using Guid(39d8a80c033b3d843b911d652fe558e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9e7ad41c4170c960b097dfaaeff3901') in 0.133852 seconds
+  Import took 0.135716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/zFinished/Turrets/M60A1/textures/net_c_c.jpg
+  artifactKey: Guid(b961d5618abd89348a345d1b790efb61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/M60A1/textures/net_c_c.jpg using Guid(b961d5618abd89348a345d1b790efb61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c2a788efc9338ac51c0d9bea475dcf4') in 0.029088 seconds
+  Import took 0.031078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Distribution/NoU/Turrets/mg_sgmt_c.dds
+  artifactKey: Guid(fbecc46b2ee48eb4d904db30260cf103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/mg_sgmt_c.dds using Guid(fbecc46b2ee48eb4d904db30260cf103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6be15616ea6c1b478f15af9fae66090') in 0.006177 seconds
+  Import took 0.008084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Distribution/NoU/Flags/OSF.dds
+  artifactKey: Guid(6621b7ecf395737488727688a3755bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Flags/OSF.dds using Guid(6621b7ecf395737488727688a3755bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47bfbf160ce45fcec21417c0f5131a2f') in 0.238291 seconds
+  Import took 0.240293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Distribution/NoU/Exhaust/muzzle.png
+  artifactKey: Guid(0fd328b730b91b44fb59983233d347f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Exhaust/muzzle.png using Guid(0fd328b730b91b44fb59983233d347f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90b87eacc391fe356600e436f77599aa') in 0.169296 seconds
+  Import took 0.171489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/zFinished/Turrets/Centurion Mk.10/mk_10_centurion_gun_c_uk_camo_very_dark_drab.jpg
+  artifactKey: Guid(cfe2700eeec08e341b08dfc662b91fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/Centurion Mk.10/mk_10_centurion_gun_c_uk_camo_very_dark_drab.jpg using Guid(cfe2700eeec08e341b08dfc662b91fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c18ac2e699ecf160698973b91b7a09') in 0.005144 seconds
+  Import took 0.007252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/zFinished/Turrets/EBR-90/textures/Panhard_EBR_90_turret_01_AM.jpg
+  artifactKey: Guid(c20f7318f3ebf124f9561f76fa8358b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/EBR-90/textures/Panhard_EBR_90_turret_01_AM.jpg using Guid(c20f7318f3ebf124f9561f76fa8358b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f50a0617d660baadf7eeb1755a5c598') in 0.051126 seconds
+  Import took 0.053207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/zFinished/Turrets/M551/textures/optic_glass_c.jpg
+  artifactKey: Guid(9d9e8707be01a874e8ffa0027eb321ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/M551/textures/optic_glass_c.jpg using Guid(9d9e8707be01a874e8ffa0027eb321ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4422b32334f2fc927b086eca8ff11b79') in 0.062748 seconds
+  Import took 0.064747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Distribution/NoU/Turrets/net_d_c.dds
+  artifactKey: Guid(897478e0ac2332849a5c0d902fd576a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/net_d_c.dds using Guid(897478e0ac2332849a5c0d902fd576a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '418a430dcfab62faee8f5f1744caaa8f') in 0.020709 seconds
+  Import took 0.022961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/zFinished/Turrets/T-54 (1951)/textures/mg_sgmt_c.jpg
+  artifactKey: Guid(06758c694e00b004588a84fbfb76777e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/T-54 (1951)/textures/mg_sgmt_c.jpg using Guid(06758c694e00b004588a84fbfb76777e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afe70ca137a8a6b7202abb3c5a545832') in 0.028515 seconds
+  Import took 0.030743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Distribution/NoU/Turrets/Panhard_EBR_90_guns_AM.dds
+  artifactKey: Guid(1a39de2c0301f954fa90af5079d917b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/Panhard_EBR_90_guns_AM.dds using Guid(1a39de2c0301f954fa90af5079d917b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c038c3d7aafe810b5e942345f63d48e') in 0.074964 seconds
+  Import took 0.077150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Distribution/NoU/Turrets/Panhard_EBR_90_turret_01_AM.dds
+  artifactKey: Guid(7db2869e95aa46a44a46ffaab826ea40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/Panhard_EBR_90_turret_01_AM.dds using Guid(7db2869e95aa46a44a46ffaab826ea40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9159fefca6092483e34f91e80195c6f1') in 0.052182 seconds
+  Import took 0.054055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/zFinished/Turrets/EBR-90/textures/Panhard_EBR_90_guns_AM.jpg
+  artifactKey: Guid(8335aa3339640a54ca571e8ff4730ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/EBR-90/textures/Panhard_EBR_90_guns_AM.jpg using Guid(8335aa3339640a54ca571e8ff4730ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cea31e289ddc2a89bcc3cfb9009943e0') in 0.018147 seconds
+  Import took 0.020060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Distribution/NoU/Turrets/net_c_c.dds
+  artifactKey: Guid(38d05766d6cc7ca45933dc554b57b1f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/net_c_c.dds using Guid(38d05766d6cc7ca45933dc554b57b1f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45489635573612ce385dd0525bba9e4a') in 0.023199 seconds
+  Import took 0.025176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Distribution/NoU/Missiles/MIM-23.dds
+  artifactKey: Guid(97bb8457a972ecd4c9b46ced60c8c5f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Missiles/MIM-23.dds using Guid(97bb8457a972ecd4c9b46ced60c8c5f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '280781f717958ee6c6bde2081eae9f55') in 0.237618 seconds
+  Import took 0.239470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Distribution/NoU/Turrets/pt_76b_turret_c_ussr_camo_green.dds
+  artifactKey: Guid(93fffd345332918469a6d75629502ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/pt_76b_turret_c_ussr_camo_green.dds using Guid(93fffd345332918469a6d75629502ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '629383d4e4d86cf660d4877c0f918909') in 0.067849 seconds
+  Import took 0.069707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/zFinished/Turrets/M60A2/textures/net_d_c.jpg
+  artifactKey: Guid(f6a329a7b9a83e444ac9e6f636794c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/zFinished/Turrets/M60A2/textures/net_d_c.jpg using Guid(f6a329a7b9a83e444ac9e6f636794c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe338c535dbc88093120ef7270157f46') in 0.016907 seconds
+  Import took 0.018780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Distribution/NoU/Turrets/optic_glass_c.dds
+  artifactKey: Guid(ebdfccf204822b64ab3c2ebda47a8f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/optic_glass_c.dds using Guid(ebdfccf204822b64ab3c2ebda47a8f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90b52187e782d39956a99571314a0a2e') in 0.017578 seconds
+  Import took 0.019493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Distribution/NoU/Turrets/mk_10_centurion_turret_c_uk_camo_very_dark_drab.dds
+  artifactKey: Guid(3efce563abcdcb241a3d7cac070b4e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Turrets/mk_10_centurion_turret_c_uk_camo_very_dark_drab.dds using Guid(3efce563abcdcb241a3d7cac070b4e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d774bc5a51ec051f2a575daaad5c768') in 0.081175 seconds
+  Import took 0.083237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Distribution/NoU/Missiles/R-3R.dds
+  artifactKey: Guid(1cd68840976560d429ed2ddad9aa6931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Distribution/NoU/Missiles/R-3R.dds using Guid(1cd68840976560d429ed2ddad9aa6931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f090b62ac71e3e1abea3114b7b36230c') in 0.086586 seconds
+  Import took 1.070390 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

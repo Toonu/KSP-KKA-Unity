@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 131
+  controlID: 50
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -225,7 +225,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 136
+  controlID: 51
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 137
+  controlID: 52
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -344,22 +344,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/zFinished/WIP
+    - Assets/zFinished/Turrets/T-54 (1951)
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/zFinished/WIP
+  - Assets/zFinished/Turrets/T-54 (1951)
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\GitProjects\KSP-NoU-Mod
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 269}
-    m_SelectedIDs: bc4b0000
-    m_LastClickedID: 19388
-    m_ExpandedIDs: 000000007e4b0000804b0000824b000000ca9a3b
+    m_SelectedIDs: c44b0000
+    m_LastClickedID: 19396
+    m_ExpandedIDs: 00000000824b0000844b0000864b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -387,7 +387,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000007e4b0000804b0000824b0000
+    m_ExpandedIDs: 00000000824b0000844b0000864b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -510,9 +510,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 92470000
       m_LastClickedID: 0
-      m_ExpandedIDs: 56fbffff
+      m_ExpandedIDs: 56fbffff9a3f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -573,9 +573,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.12081045, y: 0.40027714, z: -2.8087912}
+    m_Target: {x: 0.23314565, y: -0.051744044, z: -3.0049458}
     speed: 2
-    m_Value: {x: 0.12081045, y: 0.40027714, z: -2.8087912}
+    m_Value: {x: 0.23314565, y: -0.051744044, z: -3.0049458}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -622,13 +622,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.07720184, y: 0.6610004, z: 0.068658665, w: 0.7432431}
+    m_Target: {x: 0.076171, y: 0.8449357, z: -0.1251085, w: 0.51443607}
     speed: 2
-    m_Value: {x: -0.07720184, y: 0.6610004, z: 0.068658665, w: 0.74324304}
+    m_Value: {x: 0.07617101, y: 0.8449358, z: -0.12510851, w: 0.51443607}
   m_Size:
-    m_Target: 0.5501778
+    m_Target: 2.7441666
     speed: 2
-    m_Value: 0.5501778
+    m_Value: 2.7441666
   m_Ortho:
     m_Target: 1
     speed: 2
