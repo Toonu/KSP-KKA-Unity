@@ -1,0 +1,3 @@
+[submodule "Assets/Distribution/KKA"]
+	path = Assets/Distribution/KKA
+	url = https://github.com/Toonu/KKA
