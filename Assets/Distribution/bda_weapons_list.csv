@@ -1,0 +1,208 @@
+NAME;TITLE;AUTHOR;MANUFACTURER;PART_MASS;PART_COST;PART_CRASHTOLERANCE;PART_MAXTEMP;WEAPON_RPM;WEAPON_DEVIATION;WEAPON_MAXEFFECTIVEDISTANCE;WEAPON_TYPE;WEAPON_BULLETTYPE;WEAPON_AMMONAME;WEAPON_BULLETMASS;WEAPON_BULLET_VELOCITY;WEAPON_MAXHEAT;WEAPON_HEATPERSHOT;WEAPON_HEATLOSS;CANNON_SHELLPOWER;CANNON_SHELLHEAT;CANNON_SHELLRADIUS;CANNON_AIRDETONATION
+hispanoEnclosed;WW2 Hispano MK2 20mm Cannon (Enclosed);VintageXP;Roaken Armory;0.054;800;12;1200;700;0.188;2500;ballistic;20x110mmAPShell; 20x110mmHEShell;20mm;0.388;1030;16200;399.3;512.22;0;False
+air.NR-30;NR-30;VintageXP;Kerbal Kombat Anthology;0.066;800;12;1200;1000;0.188;2500;ballistic;30mmBullet;30mm;0.388;1030;16200;399.3;512.22;0;False
+air.NS-23;NS-23;VintageXP;Kerbal Kombat Anthology;0.037;800;12;1200;850;0.188;2500;ballistic;23x115mmBullet;20mm;0.388;1030;16200;399.3;512.22;0;False
+air.N-37;N-37;VintageXP;Kerbal Kombat Anthology;0.103;800;12;1200;400;0.188;2500;ballistic;37MMAP;40mm;0.388;1030;16200;399.3;512.22;0;False
+air.DEFA;DEFA 550;VintageXP;Kerbal Kombat Anthology;0.085;800;12;1200;1700;0.188;2500;ballistic;30mmBullet;30mm;0.388;1030;16200;399.3;512.22;0;False
+air.ADEN;ADEN Mk.4;VintageXP;Kerbal Kombat Anthology;0.092;800;12;1200;1700;0.188;2500;ballistic;30mmBullet;30mm;0.388;1030;16200;399.3;512.22;0;False
+air.AN/M3;AN/M3;VintageXP;Kerbal Kombat Anthology;0.06;800;12;1200;890;0.188;2500;ballistic;12.7mmBullet;.50cal;0.388;1030;16200;399.3;512.22;0;False
+air.M39A1;M39A1;VintageXP;Kerbal Kombat Anthology;0.0809;800;12;1200;1500;0.188;2500;ballistic;20x102mmBullet;20mm;0.388;1030;16200;399.3;512.22;0;False
+hispanoExposed;WW2 Hispano MK2 20mm Cannon;VintageXP;Roaken Armory;0.048;800;12;1200;710;0.215;2500;ballistic;20x110mmAPShell; 20x110mmHEShell;20mm;0.388;1030;14400;399.3;515.86;0;False
+WW2Ho5WingMount;WW2 Ho-5 20mm Cannon;VintageXP, SuicidalInsanity;Roaken Armory;0.037;800;12;1200;750;0.29;2500;ballistic;20x94mmAPTShell; 20x94mmHEShell;20mm;0.388;1030;14000;340.3;562.22;0;False
+Mg151Long;WW2 MG 151 15mm Long Barrel;VintageXP;Roaken Armory;0.042;800;12;1200;700;0.29;2500;ballistic;15x96mmAPBullet; 15x96mmHEBullet;15mm;0.388;1030;12600;246.24;609.58;0;False
+Mg151Short;WW2 MG 151 15mm Short Barrel;VintageXP;Roaken Armory;0.038;800;12;1200;710;0.32;2500;ballistic;15x96mmAPBullet; 15x96mmHEBullet;15mm;0.388;1030;11400;241.14;601.2;0;False
+MG151WingPod;WW2 MG 151 20mm Surface Mounted;VintageXP;Roaken Armory;0.048;800;12;1200;700;0.265;2500;ballistic;20x82mmAPShell; 20x82mmMGShell;20mm;0.388;1030;13500;241.14;596.95;0;False
+ShVAKWing;WW2 ShVAK 20mm Wing Mounted Cannon;VintageXP;Roaken Armory;0.042;800;12;1200;800;0.249;2500;ballistic;20x99mmBZShell; 20x99mmOZShell;20mm;0.388;1030;12600;332.82;627.57;0;False
+ShVAKBody;WW2 ShVAK 20mm Body Port Cannon;VintageXP;Roaken Armory;0.041;800;12;1200;810;0.261;2500;ballistic;20x99mmBZShell; 20x99mmOZShell;20mm;0.388;1030;12300;340.61;642.25;0;False
+Bk75;WW2 Bk 7.5 75mm Cannon;VintageXP;Roaken Armory;1.2;800;12;1200;30;0.08;2500;ballistic;75mmAPShell; 75mmHEShell;75mm;0.388;1030;21150;13290.4;2820;0;False
+WW2Ho155;WW2 Ho-155 30mm Cannon;VintageXP, SuicidalInsanity;Roaken Armory;0.05;800;12;1200;450;0.4;2500;ballistic;30x129mmShell;30mm;0.388;1030;12000;451.07;464;0;False
+Mk108;WW2 MK 108 30mm Cannon;VintageXP;Roaken Armory;0.06;800;12;1200;650;0.16;2500;ballistic;30x90mmMGeschoss;30mm;0.388;1030;17400;451.07;464;0;False
+VickersShortPod;WW2 Vickers S 40mm Cannon;VintageXP;Roaken Armory;0.134;800;12;1200;100;0.12;2500;ballistic;40x158mmAPShell; 40x158mmHEShell;40mm;0.388;1030;16080;4142.47;1340;0;False
+VYa23;WW2 VYa-23 23mm Cannon;VintageXP;Roaken Armory;0.068;800;12;1200;650;0.16;2500;ballistic;23x152mmAPBullet; 23x152mmHEBullet;23mm;0.388;1030;20400;729.44;544;0;False
+BerezinUBK;WW2 Berezin UBK 12.7mm Long Barrel;VintageXP;Roaken Armory;0.025;800;12;1200;1050;0.436;2500;ballistic;12.7x108mmBullet;.50cal;0.388;1030;7500;174.61;435.76;0;False
+BredaSAFATLong;WW2 Breda-SAFAT 7.7mm MG Long Barrel;VintageXP;Roaken Armory;0.0125;800;12;1200;900;0.66;2500;ballistic;7.7x56RmmBullet;7mm;0.388;1030;1875;28.24;164.28;0;False
+BredaSAFATPort;WW2 Breda-SAFAT 7.7mm MG Port;VintageXP;Roaken Armory;0.011;800;12;1200;900;0.73;2500;ballistic;7.7x56RmmBullet;7mm;0.388;1030;1650;27.48;159.87;0;False
+WW2Ho3ExposedBarrel;WW2 Ho-3 .50 Long Barrel;VintageXP, SuicidalInsanity;Roaken Armory;0.023;800;12;1200;900;0.43;2500;ballistic;12.7x81SRmmBulletAP; 12.7x81SRmmBulletHE;.50cal;0.388;1030;8200;155.94;461.87;0;False
+M2Blister;WW2 Browning M2 .50 Blister Pod;VintageXP;Roaken Armory;0.05;800;12;1200;850;0.4;2500;ballistic;12.7x99mmBullet;.50cal;0.388;1030;8700;155.94;461.87;0;False
+M2ExposedBarrel;WW2 Browning M2 .50 Long Barrel;VintageXP;Roaken Armory;0.029;800;12;1200;850;0.4;2500;ballistic;12.7x99mmBullet;.50cal;0.388;1030;8700;155.94;461.87;0;False
+M2GunPort;WW2 Browning M2 .50 Port;VintageXP;Roaken Armory;0.026;800;12;1200;850;0.43;2500;ballistic;12.7x99mmBullet;.50cal;0.388;1030;7800;152.46;451.55;0;False
+M2Pod;WW2 Browning M2 .50 Surface Mounted;VintageXP;Roaken Armory;0.029;800;12;1200;850;0.4;2500;ballistic;12.7x99mmBullet;.50cal;0.388;1030;8700;155.94;461.87;0;False
+MG131;WW2 MG 131 13mm Surface Mounted;VintageXP;Roaken Armory;0.0166;800;12;1200;900;0.51;2500;ballistic;13x64mmHEBullet; 13x64mmAPBullet;13mm;0.388;1030;4980;101.51;337.5;0;False
+shKAS;WW2 ShKAS 7.62mm;VintageXP;Roaken Armory;0.01;800;12;1200;1800;1.24;2500;ballistic;7.62x54mmBullet;7mm;0.388;1030;2000;34.06;123.51;0;False
+WW2R4MRocket;WW2 R4M Rocket Rack;SuicidalInsanity;Roaken Armory;0.005;650;37;1523.15;300;1;2000;rocket;R4M;R4MRocket;0.388;1030;3600;75;250;0;False
+WW2RocketPod;WW2 Rocket Pod XM158;VintageXP;Roaken Armory;0.016;650;37;1523.15;650;1;4000;rocket;2.75inch;2.75inRocket;0.388;1030;3600;75;250;0;False
+BallTurret;WW2 Ball Turret .50 Cal;VintageXP;Roaken Armory;0.305;800;12;1200;850;0.4;2500;ballistic;12.7x99mmBullet;.50cal;0.388;1030;8700;155.94;461.87;0;False
+MG131zTurret;WW2 MG 131z 13mm Turret;VintageXP, SuicidalInsanity;Roaken Armory;0.0166;800;12;1200;900;0.58;2500;ballistic;13x64mmHEBullet; 13x64mmAPBullet;13mm;0.388;1030;4480;101.51;337.5;0;False
+bahaGatlingGun;Vulcan Turret;BahamutoD;Bahamuto Dynamics;0.2;950;60;1523.15;5500;0.175;2500;ballistic;20x102mmHEBullet; 20x102mmBullet;20x102Ammo;0.388;1030;3600;36;820;0;False
+bahaTurret;.50cal Turret;BahamutoD;Bahamuto Dynamics;0.15;950;60;1523.15;450;0.65;2500;ballistic;12.7mmBullet; 12.7mmAPIBullet;50CalAmmo;0.388;1030;3600;100;1000;0;False
+bahaABL;USAF Airborne Laser;BahamutoD;Bahamuto Dynamics;0.8;7600;60;1523.15;650;0.0125;5000;laser;def;ElectricCharge;0.388;1030;3600;40;740;0;False
+bahaBrowningAnm2;Browning .50cal AN/M3;BahamutoD;Bahamuto Dynamics;0.04;950;60;1523.15;1150;0.22;2800;ballistic;12.7mmBullet; 12.7mmAPIBullet;50CalAmmo;0.388;1030;3600;115;825;0;False
+BahaF86Launcher;FFAR Reloadable Rocket Pod;SuicidalInsanity;Bahamuto Dynamics;0.1;950;37;1523.15;650;1;2500;rocket;FFAR70; Hydra70;Rockets;0.388;1030;3600;75;250;0;False
+bahaGau-8;GAU-8 30x173mm Cannon;BahamutoD;Bahamuto Dynamics;0.55;950;60;1523.15;3900;0.45;4000;ballistic;30x173HEBullet; 30x173Bullet;30x173Ammo;0.388;1030;3600;56;740;0;False
+bahaGoalKeeper;Goalkeeper CIWS;BahamutoD;Bahamuto Dynamics;4;950;50;1523.15;4200;0.5;4000;ballistic;30x173HEBullet;30x173Ammo;0.388;1030;3600;36;900;0;False
+GoalKeeperBDAcMk1;GoalkeeperMk1 CIWS;BahamutoD;Bahamuto Dynamics;4;750;50;1523.15;4200;0.5;4000;ballistic;30x173Bullet;30x173Ammo;0.388;1030;3600;36;900;0;False
+BDAcGKmk2;Goalkeeper MK2 CIWS;BahamutoD;Bahamuto Dynamics;4.4;950;50;1523.15;4200;0.4;4000;ballistic;30x173Bullet;30x173Ammo;0.388;1030;3600;36;900;0;False
+bdImpulseGun;Zero-Point Energy Field Manipulator;Concodroid, SuicidalInsanity;Bahamuto Dynamics;0.1;950;60;1523.15;750;0.15;2500;laser;def;ElectricCharge;0.388;1030;3600;115;825;0;False
+bahaH70Launcher;Hydra-70 Rocket Pod;BahamutoD;Bahamuto Dynamics;0.016;650;37;1523.15;650;1;4000;rocket;Hydra70;Hydra70Rocket;0.388;1030;3600;75;250;0;False
+bahaH70Turret;Hydra-70 Rocket Turret;BahamutoD;Bahamuto Dynamics;0.416;650;37;1523.15;650;1;4000;rocket;Hydra70;Hydra70Rocket;0.388;1030;3600;75;250;0;False
+bahaHiddenVulcan;Vulcan (Hidden);BahamutoD;Bahamuto Dynamics;0.1;950;60;1523.15;5500;0.125;2500;ballistic;20x102mmHEBullet; 20x102mmBullet;20x102Ammo;0.388;1030;3600;36;820;0;False
+air.GSh23L;9-A-472 GSh-23L;BahamutoD;Kerbal Kombat Anthology;0.05;950;60;1523.15;3600;0.125;2500;ballistic;23x115mmBullet;23mm;0.388;1030;3600;36;820;0;False
+air.M61A1;M61A1;BahamutoD;Kerbal Kombat Anthology;0.112;950;60;1523.15;6000;0.125;2500;ballistic;20mmBullet;20mm;0.388;1030;3600;36;820;0;False
+bahaM102Howitzer;M102 Howitzer (Radial);BahamutoD;Bahamuto Dynamics;1;3500;60;1523.15;13;0.25;8000;ballistic;105mmBullet; 105mmHEBullet;CannonShells;0.388;1030;3600;60;740;0;False
+bahaM1Abrams;M1 Abrams Cannon;BahamutoD;Bahamuto Dynamics;2;3500;125;1523.15;10;0.2;8000;ballistic;120mmBullet; 120mmBulletHE; 120mmBulletCannister;CannonShells;0.388;1030;3600;60;740;0;False
+bahaM230ChainGun;M230 Chain Gun Turret;BahamutoD;Bahamuto Dynamics;0.1;950;60;1523.15;625;0.4;2500;ballistic;30x173HEBullet; 30x173Bullet;30x173Ammo;0.388;1030;3600;166;820;0;False
+bahaOMillennium;Oerlikon Millennium Cannon;BahamutoD;Bahamuto Dynamics;2;3500;125;1523.15;850;0.47;3800;ballistic;35x228HEBullet; 35x228AHEADBullet;30x173Ammo;0.388;1030;3600;200;740;0;False
+bahaS-8Launcher;S-8KOM Rocket Pod;BahamutoD;Bahamuto Dynamics;0.016;650;37;1523.15;1000;1;4000;rocket;8KOMS;S-8KOMRocket;0.388;1030;3600;75;250;0;False
+HSTVAP;HSTV APFSDS;Marhfg;Fox Defense Contracts;3.075;3425;250;1523.15;15;0.029;8000;ballistic;def;XM885;0.388;1030;3600;60;740;0;False
+M103;M103 120mm;Marhfg;Fox Defense Contracts;8.51;3425;250;1523.15;3;0.037;8000;ballistic;120MMM358AP; 120MMM469HEATFS; 120MMM356HE;M399;0.388;1030;3600;60;740;0;False
+AbramsA2;M1A2 Abrams;Marhfg;Fox Defense Contracts;9.26;3425;250;1523.15;8;0.027;8000;ballistic;M829DAPFSDS; M829HEAT-FS;M829;0.388;1030;3600;60;740;0;False
+M3Bradly;M3 Bradley APDS;Marhfg;Fox Defense Contracts;4.125;3425;250;1523.15;200;0.057;8000;ballistic;M791APDS; M792HEI;M791;0.388;1030;3600;60;740;0;False
+M42DusterAP;M42 Duster Ap-T;Marhfg;Fox Defense Contracts;3.4;3425;250;1523.15;90;0.47;7160;cannon;40MMAPT; 40MMHEFIT;MKII;0.388;1030;3600;60;740;0;False
+M60A3;M60A3 105MM;Marhfg;Fox Defense Contracts;7;3425;250;1523.15;6;0.033;8000;ballistic;105MMAPDS; 105MMHEATFS; 105MMHESH;105x607mmR;0.388;1030;3600;60;740;0;False
+M60A3120;M60A3 120MM;Marhfg;Fox Defense Contracts;7;3425;250;1523.15;6;0.033;8000;ballistic;120MMAPFSDS; 120MMHEAT;120x248mmR;0.388;1030;3600;60;740;0;False
+MBT-70;MBT-70;Marhfg;Fox Defense Contracts;7.8;2700;250;1523.15;6;0.0144;8000;ballistic;152MMAPFSDS; 152MMHEAT;;152mmXM-150E5;0.388;1030;3600;60;740;0;False
+T95;T-95;Marhfg;Fox Defense Contracts;4.3;3425;250;1523.15;3;0.038;8000;cannon;105MMTHE; 105MMTAPCR; 105MMTAPCBC;105x654mmR;0.388;1030;3600;60;740;0;False
+T26E4;T26E4;Marhfg;Fox Defense Contracts;7.5;2700;250;1523.15;4;0.038;8000;ballistic;90MMAP; 90MMAPCR; 90MMAPCBC; 90MMHE;90x830mmR;0.388;1030;3600;60;740;0;False
+AMT34;T34 Heavy Tank Turret;Marhfg;Fox Defense Contracts;9.77;3425;250;1523.15;4;0.034;8000;ballistic;120MMT14E3; 120MMM73; 120MMT17E1;T15E2;0.388;1030;800;25;300;0;False
+T57AP-T;T57 Heavy Tank Turret;Marhfg;Fox Defense Contracts;8.2;3425;250;1523.15;35;0.035;8000;ballistic;120MMAP-T; 120MMHEATFS;120x248mmR;0.388;1030;6000;500;150;0;False
+T92HMC;T92Hmc Howitzer;Marhfg;Fox Defense Contracts;8.6;3425;250;1523.15;1;0.083;23000;cannon;240MMHE;240x1005mmR;0.388;1030;3600;2500;500;0;False
+FV4005;FV4005 Stage II 183MM;Marhfg;Fox Defense Contracts;9;3425;250;1523.15;2;0.036;8000;ballistic;183MMAPCR; 183MMHESH;183MMRound;0.388;1030;3600;60;740;0;False
+TortoiseAPCBC;Tortoise Gun APCBC;Marhfg;Fox Defense Contracts;4.07;3425;250;1523.15;5;0.033;8000;ballistic;94MMAPCBC; 94MMHE;94x737mmR;0.388;1030;3600;60;740;0;False
+Amx50B;Amx 50B;Marhfg;Fox Defense Contracts;8.67;2700;250;1523.15;10;0.035;8000;ballistic;120MMFAP; 120MMFHE;120x467mmR;0.388;1030;750;50;100;0;False
+AmxELCbis;Amx ELC Bis;Marhfg;Fox Defense Contracts;1.01;2700;250;1523.15;4;0.038;8000;ballistic;90MMAPC; 90MMBHE;90MM MLE;0.388;1030;4500;500;450;0;False
+ARL44;ARL 44;Marhfg;Fox Defense Contracts;7.5;2700;250;1523.15;6;0.038;8000;ballistic;90MMARLAPC; 90MMARLHE;90MM MLE;0.388;1030;4500;100;300;0;False
+BatChat25;BatChat_25T;Marhfg;Fox Defense Contracts;3.75;2700;250;1523.15;15;0.038;8000;ballistic;90MMAPC; 90MMBHE;90MM MLE;0.388;1030;4500;600;300;0;False
+Leopard1;Leopard I;Marhfg;Fox Defense Contracts;6;1560;100;1523.15;9;0.03;8000;ballistic;105MMLeopard1APDS; 105MMLeopard1HESH; 105MMLeopard1HEATFS;105x817mmR;0.388;1030;3600;60;740;0;False
+Leopard2A5;Leopard 2A5;Marhfg;Fox Defense Contracts;9;1560;100;1523.15;10;0.022;8000;ballistic;120MMLeopard2A5HEATFS; 120MMLeopard2A5APFSDS;120x570mmR;0.388;1030;3600;60;740;0;False
+PantherII;PantherII Turret;Marhfg;Fox Defense Contracts;8;3425;250;1523.15;6;0.034;8000;ballistic;88MMAPCBC; 88MMHE; 88MMAPCR; 88MMHEAT;88x822mmR;0.388;1030;3600;60;740;0;False
+Ru251;Spähpanzer RU-251;Marhfg;Fox Defense Contracts;3.83;1560;100;1523.15;8;0.03;8000;ballistic;90MMHEGer; 90MMHEATFSGer; 90MMHESHGer;BK90;0.388;1030;3600;60;740;0;False
+TigerII;Tiger II Turret;Marhfg;Fox Defense Contracts;10.2;3425;250;1523.15;6;0.034;8000;ballistic;88MMAPCBC; 88MMHE; 88MMAPCR; 88MMHEAT;88x822mmR;0.388;1030;3600;60;740;0;False
+Wirbelwind;Flakpanzer IV Wirbelwind;Marhfg;Fox Defense Contracts;3.75;3425;250;1523.15;125;0.052;8000;ballistic;Sprgr20mmHEFI;20×138mmB;0.388;1030;7200;40;1200;0;False
+BMP3HE;BMP-3 HE;Marhfg;Fox Defense Contracts;2.8;3425;250;1523.15;10;0.049;8000;cannon;3UOF19HET;3UOF19;0.388;1030;3600;60;740;0;False
+IS2;IS-2;Marhfg;Fox Defense Contracts;7;3425;250;1523.15;2;0.046;8000;ballistic;122MMAPHE; 122MMAPHEBC; 122MMHE;122x785mmR;0.388;1030;3600;60;740;0;False
+IS7;IS-7;Marhfg;Fox Defense Contracts;6.8;3425;250;1523.15;6;0.038;8000;ballistic;130MMIS7APCBC; 130MMIS7HE;130mmPattern;0.388;1030;3600;60;740;0;False
+Obj268;Object 268;Marhfg;Fox Defense Contracts;7.5;3425;250;1523.15;3;0.5;8000;ballistic;152ObjHE; 152ObjAPHEBC; 152ObjHEAT;152.4mmCannon;0.388;1030;3600;60;740;0;False
+Obj906;Object 906;Marhfg;Fox Defense Contracts;1.5;3425;250;1523.15;14;0.039;8000;ballistic;85MMObjAPCBC; 85MMObjHEATFS; 85MMObjHE;85x629mmR;0.388;1030;3600;60;740;0;False
+T-10;T-10/IS-8;Marhfg;Fox Defense Contracts;7.5;3425;250;1523.15;3;0.046;8000;ballistic;122MMAPDS; 122MMTHE; 122MMTAPCBC; 122MMHEATFS;122x785mmR;0.388;1030;3600;60;740;0;False
+T-44;T-44;Marhfg;Fox Defense Contracts;4.8;3425;250;1523.15;2;0.043;8000;ballistic;122MMAPHE; 122MMAPHEBC; 122MMHE;122x785mmR;0.388;1030;3600;60;740;0;False
+T-54;T-54;Marhfg;Fox Defense Contracts;5.4;3425;250;1523.15;6;0.039;8000;ballistic;100MMAPHE; 100MMAPCR; 100MMAPCBC; 100MMHE;100x535mmR;0.388;1030;3600;60;740;0;False
+T-64;T-64A;Marhfg;Fox Defense Contracts;5.7;3425;250;1523.15;8;0.032;8000;ballistic;3BM22APFSDS; 3BM22HEATFS;3BM22;0.388;1030;3600;60;740;0;False
+T-90;T-90;Marhfg;Fox Defense Contracts;6.98;3425;250;1523.15;9;0.029;8000;ballistic;3VBM22RuAPFSDS; 3BK18MRuHEATFS;;3BM42M;0.388;1030;3600;60;740;0;False
+Elden40;Vagn Eldledning AutomatKanon 40;Marhfg;Fox Defense Contracts;2.9;3425;250;1523.15;300;0.045;8000;ballistic;40mmElden42BAP; 40mmElden484HEPR;40x304mmR;0.388;1030;3600;60;740;0;True
+Luft42;Luftvärnskanonvagn 42;Marhfg;Fox Defense Contracts;1.35;3425;250;1523.15;240;0.05;8000;ballistic;40mmLuft42AP; 40mmLuft42HE;40x304mmR;0.388;1030;3600;60;740;0;True
+Luft9040c;Luftvärnskanonvagn 9040C;Marhfg;Fox Defense Contracts;2.85;3425;250;1523.15;300;0.038;8000;ballistic;40mmLukv9040cAPFSDS; 40mmLukv9040cHE;40x304mmR;0.388;1030;3600;60;740;0;True
+Strids74;Stridsvagn 74;Marhfg;Fox Defense Contracts;3.9;3425;250;1523.15;8;0.038;8000;ballistic;75mmStrv74APCBC; 75mmStrv74HE; 75mmStrv74APDS;75x350mmR;0.388;1030;3600;60;740;0;False
+59-94;CN 59-94 Turret;BahamutoD & Kerwis;Kerbal Liberation Army;8;3500;500;1523.15;8;0.001;20000;ballistic;105MM-94;CannonShells;0.388;1030;500;60;740;0;False
+89Zjq;Type 89 HMG;BahamutoD & Kerwis;Kerbal Liberation Army;0.017;950;60;1523.15;600;0.25;2500;ballistic;12.7x108mmBullet;50CalAmmo;0.388;1030;3600;120;820;0;False
+CH-100MM;CN CH-100MM Cannon;BahamutoD & Kerwis;Kerbal Liberation Army;15;3500;999999;1523.15;78;0.35;30000;ballistic;100mmAPHE;CannonShells;0.388;1030;3600;600;1200;0;False
+H/PJ-38;CN H/PJ-38(130MM);BahamutoD & Kerwis;Kerbal Liberation Army;25;3500;999999;1523.15;35;0.02;45000;ballistic;130mmAPHE;CannonShells;0.388;1030;5600;800;2500;0;False
+LD2000;CN LD2000 CIWS;BahamutoD & Kerwis;Kerbal Liberation Army;1.5;950;50;1523.15;5800;0.05;4000;ballistic;30x173HEBullet;30x173Ammo;0.388;1030;36000;72;3600;0;False
+PGZ-07;CN PGZ-07 AAA;Kerbal armed;Kerbal Liberation Army;2.5;950;500;1523.15;550;0.05;10000;ballistic;35MMHEBullet;30x173Ammo;0.388;1030;10800;36;1800;0;False
+PLZ05;CN PLZ05;BahamutoD & Kerwis;Kerbal Liberation Army;15;3500;200;1523.15;10;0.001;50000;ballistic;155mmHE;CannonShells;0.388;1030;360000;60;740;0;False
+ZBL09;CN ZBL08 Gun Turret;BahamutoD & Kerwis;Kerbal Liberation Army;1.5;950;600;1523.15;450;0.05;15000;ballistic;30MM-Intelligent;30x173Ammo;0.388;1030;12000;200;1200;0;False
+ZTZ15.Turret;CN ZTZ-15 Tank_Turret;BahamutoD & Kerwis;Kerbal Liberation Army;7.5;300;1500;1523.15;15;0.001;15000;ballistic;125MM-APFSDS;CannonShells;0.388;1030;3600;0;740;0;False
+99A2turret;CN 99A2 Turret;BahamutoD & Kerwis;Kerbal Liberation Army;12;3500;500;1523.15;15;0.001;40000;ballistic;125MM-APFSDS;CannonShells;0.388;1030;500;60;740;0;False
+Bk27;EU Mauser BK-27;Kerbal armed;Kerbal Liberation Army;0.1;950;500;1523.15;1700;0.08;10000;ballistic;27×145HEBullet;30x173Ammo;0.388;1030;5400;27;3000;0;False
+CROWS7.62;MG 3;BahamutoD & Kerwis;Kerbal Liberation Army;0.011;950;60;1523.15;1300;0.1;5000;ballistic;7.62x54mmBullet;7.62X51mmAMMO;0.388;1030;360000;120;820;0;False
+HS404;Hispano-Suiza HS.404;Kerbal armed;Kerbal Liberation Army;0.043;950;500;1523.15;600;0.01;10000;ballistic;20x110mmAPShell; 20x110mmHEShell;20x102Ammo;0.388;1030;5400;30;3000;0;False
+MG151;MG 151/20;Kerbal armed;Kerbal Liberation Army;0.042;950;500;1523.15;750;0.05;10000;ballistic;20x82mmAPShell; 20x82mmMGShell;20x102Ammo;0.388;1030;5400;27;3000;0;False
+MK103;Germany MK103;Kerbal armed;Kerbal Liberation Army;0.141;950;500;1523.15;400;0.05;10000;ballistic;30x173HEBullet;30x173Ammo;0.388;1030;5400;27;3000;0;False
+VickersMG;Vickers MG;BahamutoD & Kerwis;Kerbal Liberation Army;0.00134;200;100;1523.15;965;0.1;2500;ballistic;7.7x56RmmBullet;KISAMMO;0.388;1030;3600;12;820;0;False
+2S25turret;RU 2S25M-2 Turret (125MM);BahamutoD & Kerwis;Kerbal Liberation Army;3.2;3500;500;1523.15;15;0.001;32000;ballistic;125MM-APFSDS;CannonShells;0.388;1030;500;60;740;0;False
+AK176;RU AK176MA Cannon;BahamutoD & Kerwis;Kerbal Liberation Army;6.5;3500;999999;1523.15;134;0.08;20000;ballistic;76MMAPHE;CannonShells;0.388;1030;3600;60;740;0;False
+AK630;RU AK630 CIWS;BahamutoD & Kerwis;Kerbal Liberation Army;1.5;950;50;1523.15;4000;0.64;4000;ballistic;30x173HEBullet;30x173Ammo;0.388;1030;36000;36;900;0;False
+D30;RU D30;BahamutoD & Kerwis;Kerbal Liberation Army;2.3;3500;60;1523.15;10;0.4;30000;ballistic;122mmHE;CannonShells;0.388;1030;3600;60;740;0;False
+GSH230;RU Gryazev-Shipunov GSh-30-2K;Kerbal armed;Kerbal Liberation Army;0.1;950;500;1523.15;2400;0.01;10000;ballistic;30x165K;30x173Ammo;0.388;1030;36000;30;3000;0;False
+GSH301;RU Gryazev-Shipunov GSh-301;Kerbal armed;Kerbal Liberation Army;0.046;950;500;1523.15;1500;0.01;10000;ballistic;30x165HE;30x173Ammo;0.388;1030;36000;30;3000;0;False
+KORD;6P49 Kord HMG;BahamutoD & Kerwis;Kerbal Liberation Army;0.021;950;60;1523.15;700;0.25;2500;ballistic;12.7x108mmBullet;50CalAmmo;0.388;1030;3600;120;820;0;False
+O120;RU SU-152 Taran (152MM);BahamutoD & Kerwis;Kerbal Liberation Army;5;3500;500;1523.15;6;0.01;32000;ballistic;152MM-APFSDS;CannonShells;0.388;1030;500;60;740;0;False
+Rail176;RU 76MM Railgun;BahamutoD & Kerwis;Kerbal Liberation Army;3.4;3500;999999;1523.15;15;0.01;20000;ballistic;76MMRail;CannonShells;0.388;1030;3600;60;740;0;False
+ShVAK-E;56-P-533 ShVAK MG;BahamutoD & Kerwis;Kerbal Liberation Army;0.045;950;60;1523.15;800;0.25;5000;ballistic;20x99mmBZShell; 20x99mmOZShell;20x102Ammo;0.388;1030;3600;120;820;0;False
+T62M1;RU T-62-M1 Turret;BahamutoD & Kerwis;Kerbal Liberation Army;10;3500;60;1523.15;10;0.1;10000;ballistic;3BM28;CannonShells;0.388;1030;3600;60;740;0;False
+TU423;RU NS23 BOMBER TURRET;BahamutoD & Kerwis;Kerbal Liberation Army;0.12;950;60;1523.15;550;0.15;5000;ballistic;23x115mmBullet;20x102Ammo;0.388;1030;4500;150;1500;0;False
+UPK-23;RU UPK-23 GUNPOD;Kerbal Liberation Army;Kerbal Liberation Army;0.02;950;600;1523.15;800;0.2;2500;ballistic;23x115mmBullet;20x102Ammo;0.388;1030;3600;36;820;0;False
+CROWS;M151 CROWS;BahamutoD & Kerwis;Kerbal Liberation Army;0.03;950;60;1523.15;750;0.2;2500;ballistic;12.7x99mmBullet;50CalAmmo;0.388;1030;36000;120;820;0;False
+CROWS-30MM;CROWS 30mm HMG;BahamutoD & Kerwis;Kerbal Liberation Army;0.5;950;60;1523.15;625;0.05;2500;ballistic;30x173Bullet; 30x173HEBullet;30x173Ammo;0.388;1030;30000;200;6000;0;False
+M2HB;M2HB HMG;BahamutoD & Kerwis;Kerbal Liberation Army;0.02;950;60;1523.15;550;0.3;2500;ballistic;12.7x81SRmmBulletAP; 12.7x81SRmmBulletHE;50CalAmmo;0.388;1030;36000;120;820;0;False
+tank.AMX30;AMX-30;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMM1HEAT; 105MMLeopard1APDS;CannonShells;0.388;1030;3600;60;740;0;False
+tank.CenturionMk10;Centurion Mk.10;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMAPDS;CannonShells;0.388;1030;3600;60;740;0;False
+tank.ChieftainMk3;Chieftain Mk.3;Toonu;Kerbal Kombat Anthology;8;3500;125;1523.15;7;0.04;2000;ballistic;120MMFAP;CannonShells;0.388;1030;3600;60;740;0;False
+tank.EBR90;EBR-90 Panhard;Toonu;Kerbal Kombat Anthology;3.4;3500;125;1523.15;12;0.04;8000;ballistic;90MMAPC;CannonShells;0.388;1030;3600;60;740;0;False
+tank.Leopard1A0;Leopard 1;Toonu;Kerbal Kombat Anthology;5;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMLeopard1APDS; 105MMLeopard1HESH; 105MMLeopard1HEATFS;CannonShells;0.388;1030;3600;60;740;0;False
+tank.Leopard1A1;Leopard 1A1;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;7.8;0.04;2000;ballistic;105MMLeopard1APFSDS; 105MMLeopard1HEATFS;CannonShells;0.388;1030;3600;60;740;0;False
+tank.M41;M41;Toonu;Kerbal Kombat Anthology;3.6;3500;125;1523.15;8.8;0.04;2000;ballistic;76MMAP; 76MMAPCR; 76MMHE;CannonShells;0.388;1030;3600;60;740;0;False
+tank.M48;M48A1;Toonu;Kerbal Kombat Anthology;5.6;3500;125;1523.15;7;0.04;2000;ballistic;90MMAPCR; 90MMHEATFSGer;CannonShells;0.388;1030;3600;60;740;0;False
+tank.M551;M551;Toonu;Kerbal Kombat Anthology;5;3500;125;1523.15;3.6;0.04;2000;ballistic;152MMHEAT;CannonShells;0.388;1030;3600;60;740;0;False
+tank.M60A1;M60A1;Toonu;Kerbal Kombat Anthology;6.5;3500;125;1523.15;6.8;0.04;2000;ballistic;105MMAPDS; 105MMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
+tank.M60A2;M60A2;Toonu;Kerbal Kombat Anthology;6;3500;125;1523.15;4.5;0.04;2000;ballistic;152MMHEAT;CannonShells;0.388;1030;3600;60;740;0;False
+tank.PT76;PT-76;Toonu;Kerbal Kombat Anthology;3.5;3500;125;1523.15;6;0.04;2000;ballistic;76.2MMNAPCR; 76.2MMMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
+tank.T54;T-54;Toonu;Kerbal Kombat Anthology;5.4;3500;125;1523.15;6.15;0.05;2000;ballistic;100MMAPCR; 100MMAPDS;CannonShells;0.388;1030;3600;60;740;0;False
+tank.T62;T-62;Toonu;Kerbal Kombat Anthology;6.2;3500;125;1523.15;5.7;0.04;2000;ballistic;115MMAPFSDS; 115MMHEATFS;CannonShells;0.388;1030;3600;60;740;0;False
+theotomelara76compact;OTO Melara 76mm Compact;SPanner from original mesh by Themorris;MalFunc Industries;5.9;950;60;1523.15;100;0.2;16000;cannon;76x636mmBullet;76x636Ammo;0.388;1030;3600;100;1000;0;True
+thephalanx;Phalanx CIWS;Spanner /Themorris;MalFunc Industries;0.1;950;60;1523.15;4500;0.12;3000;ballistic;20x102mmBullet;20x102Ammo;0.388;1030;3600;12;820;0;False
+3XLASER;Hongqi-9 system Point-defence Laser;Johnny005611;Johnny005611;5;950;600;1523.15;650;1;5000;laser;def;ElectricCharge;0.388;1030;360000;1;20000;0;False
+NAS.BB.380M1935x4.FNFL;380 mm/45 Modèle 1935 Gun Quadruple Turret;BahamutoD & Kerwis;Kerbin Navy;1164;15000;1250;1523.15;1.8;0.72;16000;ballistic;15inchAPKM;380Shells;0.388;1030;3600;400;740;0;False
+NAS.AA.DD.100x2.IJN;10 cm/65 Type 98 Dual-purpose Gun Turret;BahamutoD & Kerwis;Kerbin Navy;17.6;3000;1250;1523.15;12;0.62;14000;ballistic;4.1inchHEKM;CannonShells;0.388;1030;3400;200;350;0;True
+NAS.AA.MG.25Type96x3.IJN;Type 96 25 mm AT/AA Gun Triple Mount;BahamutoD & Kerwis;Kerbin Navy;0.9;140;60;1200;110;1.75;2000;ballistic;25x115mmBullet;25x137Ammo;0.388;1030;2400;182;690;0;False
+NAS.BB.356x2.IJN;Vickers 14 inch/45 Naval Twin Turret;BahamutoD & Kerwis;Kerbin Navy;720;3500;1250;1523.15;1.5;0.64;27000;ballistic;14inchAPIJN; 14inchHEIJN;356Shells;0.388;1030;3600;0;740;0;False
+NAS.BB.410x2.IJN;41 cm/45 3rd Year Type Naval Gun;BahamutoD & Kerwis;Kerbin Navy;514;5000;1250;1523.15;2.5;0.69;25000;ballistic;16inchAPRN; 16inchHCUS;16inchShells;0.388;1030;3400;800;740;0;True
+NAS.BB.460x3.IJN;46 cm/45 Type 94 Naval Triple Turret;BahamutoD & Kerwis;Kerbin Navy;1390;12500;1500;1523.15;1.8;0.61;42030;ballistic;18inchAPIJN; 18inchHEIJN;460Shells;0.388;1030;3400;800;740;0;True
+NAS.CA.203x2.IJN;20.3 cm/50 3rd Year No.3 Naval Gun;BahamutoD & Kerwis;Kerbin Navy;88;4000;1500;1523.15;4;0.29;20000;ballistic;8inchAPIJN;8inchHEIJN;203Shells;0.388;1030;3400;800;740;0;True
+NAS.CL.140x2.IJN;14 cm/50 3rd Year Type Naval Gun Twin Mount;BahamutoD & Kerwis;Kerbin Navy;48;3600;1250;1523.15;6;0.45;19100;ballistic;6inchHCUS; 6inchAPUS; 6inchSAPUS;138_140Shells;0.388;1030;3600;500;740;0;False
+NAS.CL.155x3.IJN;15.5 cm/60 3rd Year Type Naval Gun Triple Mount;BahamutoD & Kerwis;Kerbin Navy;90.6;3600;1250;1523.15;5.5;0.43;20000;ballistic;6inchHCUS; 6inchAPUS;155Shells;0.388;1030;3600;500;740;0;False
+NAS.DD.127x2.IJN;12.7 cm/50 3rd Year Type Naval Gun Model C;BahamutoD & Kerwis;Kerbin Navy;16;2400;1250;1523.15;4.5;0.47;6400;ballistic;5inchVTUS; 5inchHEIJN; 5inchSAPIJN;5/62Shell;0.388;1030;3400;0;740;0;False
+NAS.AA.MG.20FlaK38x4.KM;2 cm Flakvierling 38;BahamutoD & Kerwis;Kerbin Navy;1.2;420;60;1200;200;2.5;2200;ballistic;20x110mmHEShell; 20x110mmAPShell;20x102Ammo;0.388;1030;2400;115;800;0;False
+NAS.AA.MG.37SKC30.KM;3.7 cm SK C/30 Anti-aircraft Gun Dual Mount;BahamutoD & Kerwis;Kerbin Navy;1.88;280;60;1300;30;1.25;4800;ballistic;37mmAPKM;37mmHEKM;37mmFlaKAmmo;0.388;1030;2600;480;840;0;False
+NAS.AA.SC.105SKC33.KM;10.5 cm SK C/33;BahamutoD & Kerwis;Kerbin Navy;13.85;3000;1250;1523.15;15;0.46;12500;ballistic;4.1inchAPKM;4.1inchHEKM;CannonShells;0.388;1030;3400;380;720;0;True
+NAS.BB.380x2.KM;38 cm SK C/34 Twin-turret;BahamutoD & Kerwis;Kerbin Navy;1050;13000;1250;1523.15;1.5;0.69;25000;ballistic;15inchAPKM; 15inchSAPRM; 15inchHERM;380Shells;0.388;1030;3400;0;740;0;True
+NAS.BC.283x3.KM;28 cm SK C/28 Triple Turret;BahamutoD & Kerwis;Kerbin Navy;1050;2700;1250;1523.15;2.5;0.57;25000;ballistic;11inchAPKM; 11inchSAPKM;11inShells;0.388;1030;3400;0;740;0;False
+NAS.CA.203x2.KM;20.3 cm SK C/34 Turret;BahamutoD & Kerwis;Kerbin Navy;134;10000;1250;1523.15;4.5;0.29;20000;ballistic;8inchAPIJN;8inchHEIJN;203Shells;0.388;1030;3400;0;740;0;True
+NAS.FD.356FortDrum.USA;14-inch M1909 Twin Turret (Fort Drum Type);BahamutoD & Kerwis;Kerbin Navy;640;3500;1600;1523.15;1.6;0.82;17556;cannon;14inchAPIJN;356Shells;0.388;1030;3600;200;740;0;False
+NAS.AA.MG.37Breda.RM;Cannone-Mitragliera da 37/54 (Breda) Model 1939;BahamutoD & Kerwis;Kerbin Navy;0.75;360;60;1300;120;0.75;4000;ballistic;37mmHERM;37mmFlaKAmmo;0.388;1030;2600;675;1300;0;False
+NAS.AA.SC.90A1938.RM;Cannone da 90 mm/50 Ansaldo Model 1938;BahamutoD & Kerwis;Kerbin Navy;9.6;3000;1250;1523.15;12;0.53;10800;ballistic;3.5inchHEVTRM;90mmShells;0.388;1030;3400;380;720;0;True
+NAS.BB.381x3.RM;Cannone da 381/50 Ansaldo M1934;BahamutoD & Kerwis;Kerbin Navy;804;4500;1250;1523.15;1.3;0.61;28000;ballistic;15inchAPKM; 15inchSAPRM; 15inchHERM;380Shells;0.388;1030;3400;720;900;0;True
+NAS.AA.MG.40Boforsx2.RN;Bofors 40 mm L/60 (QF 40 mm Mk I Mount);BahamutoD & Kerwis;Kerbin Navy;2.5;450;60;1300;120;1;2400;ballistic;40mmAPBF;40x311Ammo;0.388;1030;2600;464;1700;0;False
+NAS.AA.MG.QF2pdrx8.RN;QF 2-pounder "Pom-pom" Mark VIA Mount;BahamutoD & Kerwis;Kerbin Navy;7.7;900;60;1300;96;2.5;1550;ballistic;40mmHERN;40x311Ammo;0.388;1030;2600;72;825;0;False
+NAS.BB.BL14Mk7x4.RN;BL 14 inch Mk VII Naval Gun Quad Mount;BahamutoD & Kerwis;Kerbin Navy;810;15000;1500;1523.15;2;0.63;27430;ballistic;14inchAPIJN;356Shells;0.388;1030;3400;760;740;0;False
+NAS.BB.BL15Mk1x2.RN;BL 15 inch Mk I Naval Gun Twin Mount (Soviet Navy Painting);BahamutoD & Kerwis;Kerbin Navy;394;5000;1000;1523.15;2;0.65;26273;ballistic;15inchAPKM; 15inchSAPRM;380Shells;0.388;1030;3400;900;740;0;False
+NAS.BB.BL16MkIx3.RN;BL 16 inch Mk I Naval Gun Triple Turret;BahamutoD & Kerwis;Kerbin Navy;760;6400;1500;1523.15;1.5;0.63;27340;ballistic;16inchAPRN; 16inchHCUS;16inchShells;0.388;1030;3400;750;740;0;True
+NAS.DD.QF45.RN;QF 4.5 inch Mk IV Naval Gun / Mk V Mount;BahamutoD & Kerwis;Kerbin Navy;5.7;1500;1000;1300;14;0.45;9120;ballistic;5inchHEIJN; 5inchSAPIJN;4p5inchQFShells;0.388;1030;2600;300;740;0;False
+NAS.CD.105SKL40.CN;10.5 cm SK L/40 (Mitsubishi Version);BahamutoD & Kerwis;Kerbin Navy;3.9;1250;1250;1523.15;12;0.57;6700;cannon;4.1inchHEKM;CannonShells;0.388;1030;3400;340;740;0;False
+NAS.CL.BL6inMk21x2.ROCN;BL 6 inch Mk XXI Naval Gun;BahamutoD & Kerwis;Kerbin Navy;48.64;3600;1250;1523.15;7;0.39;20120;cannon;6inchHCUS; 6inchAPUS;152Shells;0.388;1030;3600;640;740;0;True
+NAS.CL.KN152.ROCN;Kiangnan 152 mm Single Mount;BahamutoD & Kerwis;Kerbin Navy;20.5;1800;1250;1523.15;5.5;0.43;13500;ballistic;6inchHCUS; 6inchAPUS;152Shells;0.388;1030;3600;640;740;0;False
+NAS.AA.MG.66K.SN;37 mm/67 66-K Automatic Anti-aircraft Gun Turret;BahamutoD & Kerwis;Kerbin Navy;3.75;400;60;1300;145;1.25;4800;ballistic;37mmAPKM;37mmHEKM;37mmFlaKAmmo;0.388;1030;2600;210;960;0;False
+NAS.AA.MG.DShK1938.SN;12.7 mm DShK 1938 Heavy Machine Gun Single Mount;BahamutoD & Kerwis;Kerbin Navy;0.15;36;60;1200;600;1;3500;ballistic;12.7mmBullet;50CalAmmo;0.388;1030;2400;120;960;0;False
+NAS.CA.180B-1-P.SN;180 mm/57 B-1-P Turret;BahamutoD & Kerwis;Kerbin Navy;124;4800;1250;1523.15;5.5;0.42;27500;ballistic;7.1inchAPSN; 7.1inchHESN;180Shells;0.388;1030;3600;625;720;0;False
+NAS.DD.130B-2LM.SN;130 mm B-2LM Turret;BahamutoD & Kerwis;Kerbin Navy;24.7;3600;1250;1523.15;12;0.5;17200;ballistic;5inchVTUS; 5inchHEIJN; 5inchSAPIJN;130Shells;0.388;1030;3600;500;740;0;False
+NAS.AA.MG.20Oerlikonx2.USN;Oerlikon 20 mm L70 Cannon Mk 20 Twin Mount;BahamutoD & Kerwis;Kerbin Navy;0.3;140;60;1200;300;1.5;2500;ballistic;20x110mmHEShell; 20x110mmAPShell;20x102Ammo;0.388;1030;2400;168;1200;0;False
+NAS.AA.MG.40Boforsx4.USN;Bofors 40 mm L/60 (Mark 4 Quad Mount);BahamutoD & Kerwis;Kerbin Navy;5.7;1000;90;1500;120;0.9;2500;ballistic;40mmAPBF;40x311Ammo;0.388;1030;3000;205;1500;0;False
+NAS.AA.MG.50M2HBx2.USN;M2HB Browning Machine Gun Twin Mount;BahamutoD & Kerwis;Kerbin Navy;0.05;50;60;1200;560;1.5;2500;ballistic;12.7mmBullet; 12.7mmHEBullet;50CalAmmo;0.388;1030;2400;115;960;0;False
+NAS.AA.SC.3inchMark21.USN;3-inch Naval Gun Mount Mark 21;BahamutoD & Kerwis;Kerbin Navy;1.8;400;800;1523.15;15;0.61;4150;ballistic;3inchAPUSN; 3inchSAPUSN; 3inchHEVTUSN;3inchShells;0.388;1030;3400;180;740;0;True
+NAS.BB.406x3Mk7.USN;16"/50 cal Mark 7 Gun Triple Turret;BahamutoD & Kerwis;Kerbin Navy;875;18000;1500;1523.15;2;0.54;32000;ballistic;16inchAPRN; 16inchHCUS;16inchShells;0.388;1030;3400;750;740;0;True
+NAS.CA.203x3Mk16.USN;8"/55 cal Mark 16 Gun Triple Turret;BahamutoD & Kerwis;Kerbin Navy;231;4800;1250;1523.15;10;0.36;23700;ballistic;8inchAPIJN;8inchHEIJN;203Shells;0.388;1030;3600;500;740;0;True
+NAS.CB.12inx3Mk8.USN;12"/50 caliber Gun Mark 8 Triple Turret;BahamutoD & Kerwis;Kerbin Navy;475;4800;1400;1523.15;3;0.52;27432;ballistic;12inchAPUS; 12inchHCUS;12inShells;0.388;1030;3600;500;740;0;True
+NAS.CL.152x3Mk16.USN;6"/47 caliber Mark 16 Gun Triple Turret;BahamutoD & Kerwis;Kerbin Navy;87;10000;1250;1523.15;10;0.39;14630;ballistic;6inchHCUS; 6inchAPUS;152Shells;0.388;1030;3600;400;720;0;False
+NAS.DD.127x2.USN;5"/38 cal Mk 12 Naval Gun Mark 28 Mod 0 Turret;BahamutoD & Kerwis;Kerbin Navy;36.2;4200;1250;1523.15;15;0.54;5000;ballistic;5inchVTUS; 5inchHEIJN; 5inchSAPIJN;5/62Shell;0.388;1030;3400;370;740;0;False
+NAS.DD.127.USN;5"/38 cal Mk 12 Naval Gun Mark 30 Turret;BahamutoD & Kerwis;Kerbin Navy;9.6;2000;1250;1523.15;15;0.54;5000;ballistic;5inchVTUS; 5inchHEIJN; 5inchSAPIJN;5/62Shell;0.388;1030;3400;0;740;0;False
+FA-18C;NMB-F/A-18C Cockpit;Bingo;Kerbal Battle Field;1.106;8888;80;1200;8000;0.65;2500;ballistic;20x102mmHEBullet;20x102Ammo;0.388;1030;3600;36;820;0;False
+AAV7turret20;AAVP-7A1;SpannerMonkey;SM Armory Tanks;0.1;950;60;1300;500;0.1;2000;ballistic;20x102mmBullet;20x102Ammo;0.388;1030;3600;196;820;0;False
+AK100a18;AK-100;SpannerMonkey;SM Armory Guns and Turrets;20;3500;125;1523.15;60;0.02;20000;ballistic;OF58100mmBullet;100mmShells;0.388;1030;3600;60;740;0;False
+AK130turret;AK-130;SpannerMonkey;SM Armory Guns and Turrets;80;3500;125;1523.15;90;0.12;23000;ballistic;F44130Bullet;130Shells;0.388;1030;3600;60;740;0;False
+AK230;AK-230;Spanner;SM Armory Guns and Turrets;2;9500;60;1523.15;1000;0.25;4000;ballistic;30x173HEBullet;30x173Ammo;0.388;1030;3600;66;820;0;False
+AK639QB1;AK-630;Spanner;SM Armory Guns and Turrets;2;9500;60;1523.15;4200;0.25;5000;ballistic;30x173HEBullet;30x173Ammo;0.388;1030;3850;5;820;0;False
+APC30Cg2A42;2A42 TKB-648;Spanner;SM Armory Guns and Turrets;0.115;950;60;1523.15;370;0.2;3000;ballistic;30x165Bullet;30x165Ammo;0.388;1030;3600;67;1200;0;False
+BMP75mmTurret;BMP-1;SpannerMonkey;SM Armory Tanks;1.5;1560;100;1523.15;28;0.11;2200;ballistic;76.2MMMHEATFS;76x636Ammo;0.388;1030;3600;60;740;0;False
+BradleyActive;M2 Bradley;Spanner;SM Armory Tanks;2.45;950;60;1523.15;220;0.3;3000;ballistic;25x137mmBullet;25x137Ammo;0.388;1030;3600;67;1200;0;False
+Eland90BTurret;Eland 90B;SpannerMonkey;SM Armory Tanks;2;1560;100;1523.15;28;0.31;2200;ballistic;90mmBullet;90mmShells;0.388;1030;3600;60;740;0;False
+FV510Turret;FV 510 Warrior;Spanner;SM Armory Tanks;5;3500;100;1523.15;50;0.35;3500;ballistic;30x173Bullet;30x173Ammo;0.388;1030;3600;100;1000;0;False
+HVUA30CG;GAU-19/A;Spanner;SM Armory Trucks;0.75;9500;60;1523.15;320;0.35;3100;ballistic;12.7x99mmBullet;50CalAmmo;0.388;1030;3600;166;820;0;False
+mk19Turret;Mk. 19 Grenade launcher;Re-engineered for BDArmory by Spanner;SM Armory Trucks;0.25;950;60;1523.15;105;0.5;1800;ballistic;40x53HEBullet;40x53Ammo;0.388;1030;3600;60;300;0;False
+Leopard2A6;Leopard 2A6;Spanner;SM Armory Tanks;5;3500;100;1523.15;10;0.29;8000;ballistic;120mmBullet;120mmAmmo;0.388;1030;3600;60;740;0;False
+M113GunTurret;M240E1 GPMG;Spanner;SM Armory Tanks;0.005;3500;100;1523.15;350;0.4;2500;ballistic;7.7x56RmmBullet;7.7x56Ammo;0.388;1030;3600;166;820;0;False
+M163VADS;M163 Vulcan Air Defense System;Spanner;SM Armory Tanks;0.2;950;60;1523.15;3000;0.175;2500;ballistic;20x102mmHEBullet;20x102Ammo;0.388;1030;3600;36;820;0;False
+M1SMA;M1A1 Abrams;Spanner/BahamutoD;Bahamuto Dynamics;3.5;3500;125;1523.15;10;0.2;8000;cannon;120mmBullet;120mmAmmo;0.388;1030;3600;60;740;0;False
+M1SM1Turret;M1 Abrams;Spanner;SM Armory Tanks;5;3500;100;1523.15;10;0.21;8000;ballistic;120mmBullet;120mmAmmo;0.388;1030;3600;60;740;0;False
+ShilkaZSU234turret;2A6 ZSU-23-4 Shilka;Spanner;SM Armory Tanks;2.45;950;60;1523.15;1000;0.15;3000;ballistic;23x152mmHEBullet;23x152Ammo;0.388;1030;3600;10;1200;0;False
+SMsT80Turret;T-80B;Spanner;SM Armory Tanks;4;3500;100;1523.15;10;0.35;3100;ballistic;3BM22HEATFS; 3BM22APFSDS;120mmAmmo;0.388;1030;3600;60;740;0;False
+T90MS;T-90AM;Spanner;SM Armory Tanks;4;3500;100;1523.15;12;0.25;8000;ballistic;3BM22HEATFS; 125MM-APFSDS;120mmAmmo;0.388;1030;3600;60;740;0;False
+SMTunguskaAAMT;2K22 Tunguska;Spanner;SM Armory Tanks;2.45;950;60;1523.15;2250;0.6;2300;ballistic;30mm3UOF8;30x165Ammo;0.388;1030;3600;44;1200;0;False
