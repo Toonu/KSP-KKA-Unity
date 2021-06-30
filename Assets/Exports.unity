@@ -169,7 +169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: AGM-28
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &8799167
@@ -372,7 +372,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: 5V7
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &41092278
@@ -514,7 +514,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: AIM-4A
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1001 &51314846
@@ -954,7 +954,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: Masurca
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &94378989
@@ -1032,7 +1032,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: GWS20
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &100846386
@@ -1253,12 +1253,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &117396843 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: a94027b7f378cb14f9adcdc2b4bb2c2d,
+  m_CorrespondingSourceObject: {fileID: 5156617453637365667, guid: a94027b7f378cb14f9adcdc2b4bb2c2d,
     type: 3}
   m_PrefabInstance: {fileID: 117396840}
   m_PrefabAsset: {fileID: 0}
---- !u!136 &117396844
-CapsuleCollider:
+--- !u!64 &117396844
+MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -1267,38 +1267,10 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.24944627
-  m_Height: 2.8684678
-  m_Direction: 2
-  m_Center: {x: 0, y: 0.5519623, z: -0.50859475}
---- !u!136 &117396845
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 117396843}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.24944627
-  m_Height: 2.8684678
-  m_Direction: 2
-  m_Center: {x: 0, y: -0.55196226, z: -0.50859475}
---- !u!136 &117396846
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 117396843}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.29030186
-  m_Height: 8.278042
-  m_Direction: 2
-  m_Center: {x: -0, y: -0, z: 1.1975822}
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6581431453657841378, guid: a94027b7f378cb14f9adcdc2b4bb2c2d, type: 3}
 --- !u!1 &132427390
 GameObject:
   m_ObjectHideFlags: 0
@@ -1649,7 +1621,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: RedTop
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &161869925
@@ -1727,7 +1699,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: R40T
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &192114940
@@ -1835,7 +1807,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: AIM-9B
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &210609374
@@ -3396,7 +3368,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: R98T
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &372895301
@@ -3732,7 +3704,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: 3M9
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &449216025
@@ -4600,7 +4572,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: R3R
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &516831107
@@ -4677,8 +4649,8 @@ MonoBehaviour:
   m_Script: {fileID: -453068767, guid: 1d6ea3ac39c17304f87ac73826842850, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  modelName: Bloodhound
-  filePath: NoU/Missiles
+  modelName: BloodhoundMk1
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &519312673
@@ -4726,7 +4698,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: VelvetGlove
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &527271282
@@ -5024,7 +4996,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: Kh66
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &567795166
@@ -5673,7 +5645,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2111039758}
-  m_RootOrder: 3
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!1 &641268536
 GameObject:
@@ -6672,7 +6644,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: AIM-9D
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1001 &740298970
@@ -7141,7 +7113,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: AIM-9P
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &780257505
@@ -7855,7 +7827,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: 97eced5fbb6dca84abf3fb1bc184cc18,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 97eced5fbb6dca84abf3fb1bc184cc18,
         type: 3}
@@ -7999,8 +7971,8 @@ MonoBehaviour:
   m_Script: {fileID: -453068767, guid: 1d6ea3ac39c17304f87ac73826842850, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  modelName: AUM-N-2
-  filePath: NoU/Missiles
+  modelName: AUMN2
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1001 &887476588
@@ -8243,7 +8215,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: AGM-12C
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &915091003
@@ -8369,7 +8341,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: R511
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &941637255
@@ -8601,8 +8573,8 @@ MonoBehaviour:
   m_Script: {fileID: -453068767, guid: 1d6ea3ac39c17304f87ac73826842850, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  modelName: CIM-10
-  filePath: NoU/Missiles
+  modelName: CIM10
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1001 &949698583
@@ -8745,7 +8717,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: AIM-9L
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &973925169
@@ -8793,7 +8765,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: R98MR
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1001 &988896725
@@ -9331,7 +9303,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1034806075}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -0.004, y: -0, z: -6.08}
+  m_LocalPosition: {x: 0, y: -0, z: -6.08}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1106299106}
@@ -9612,7 +9584,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: Kh22
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1099120853
@@ -9669,7 +9641,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1101023080}
   m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: -0, z: -5.98}
+  m_LocalPosition: {x: 0, y: -0.16, z: -5.35}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1292285816}
@@ -9809,10 +9781,8 @@ Transform:
   m_Children:
   - {fileID: 839560042}
   - {fileID: 1323340913}
-  - {fileID: 1550558870}
+  - {fileID: 5006512736355618191}
   - {fileID: 1034806076}
-  - {fileID: 1830176183}
-  - {fileID: 1942479468}
   m_Father: {fileID: 948870441}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -10124,7 +10094,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: RIM-8A
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1162424236
@@ -11075,7 +11045,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: KSR-2
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1283210302
@@ -11123,7 +11093,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: MIM-72
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1289352623
@@ -12836,7 +12806,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: Magic1
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1439901568
@@ -13757,7 +13727,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: R40R
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1001 &1489156317
@@ -14486,25 +14456,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 50b59d27f9096b3448da262313bd730d, type: 3}
---- !u!4 &1550558870 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -4216859302048453862, guid: 50b59d27f9096b3448da262313bd730d,
-    type: 3}
-  m_PrefabInstance: {fileID: 1550558869}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &1550558871 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: 50b59d27f9096b3448da262313bd730d,
-    type: 3}
-  m_PrefabInstance: {fileID: 1550558869}
-  m_PrefabAsset: {fileID: 0}
 --- !u!136 &1550558872
 CapsuleCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1550558871}
+  m_GameObject: {fileID: 8296172668183707548}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
@@ -14991,7 +14949,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: RB04C
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1602024596
@@ -15039,7 +14997,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: 3M8
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1609370730
@@ -15087,7 +15045,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: RIM-24
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1614161327
@@ -15195,7 +15153,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: MIM-3
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1628993388
@@ -15644,7 +15602,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1663042011}
   m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: -0, z: -5.82}
+  m_LocalPosition: {x: 0, y: 0.15, z: -5.35}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1292285816}
@@ -15725,7 +15683,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: RS1U
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1664291774
@@ -15773,7 +15731,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: 5V21
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1681628580
@@ -15947,7 +15905,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: AIM-7E
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1693004052
@@ -16055,7 +16013,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: R98R
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1732958741
@@ -16245,7 +16203,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: SS.11
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1760071317
@@ -16422,7 +16380,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: AGM-45
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1793470370
@@ -16578,7 +16536,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: 9M14
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1824369644
@@ -16682,12 +16640,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1830176182}
-  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0.711, y: -0.69, z: -3.68}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: -0.7071068}
+  m_LocalPosition: {x: 2.344864, y: 2.2756062, z: 12.136567}
+  m_LocalScale: {x: 3.29798, y: 3.2979803, z: 3.2979803}
   m_Children: []
-  m_Father: {fileID: 1106299106}
-  m_RootOrder: 4
+  m_Father: {fileID: 5006512736355618191}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!1 &1832651320
 GameObject:
@@ -16834,7 +16792,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: FIM-43
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1850564202
@@ -17092,7 +17050,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: R530
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1914185800
@@ -17119,11 +17077,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1914185800}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -0.004, y: -0.001, z: -2.882}
+  m_LocalPosition: {x: 0, y: 0, z: -9.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 2111039758}
-  m_RootOrder: 2
+  m_Father: {fileID: 883892788}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!1 &1915227638
 GameObject:
@@ -17419,7 +17377,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: Swingfire
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1936177042
@@ -17570,12 +17528,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1942479467}
-  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -0.711, y: -0.69, z: -3.68}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: -0.7071068}
+  m_LocalPosition: {x: -2.344864, y: 2.2756062, z: 12.136567}
+  m_LocalScale: {x: 3.29798, y: 3.2979803, z: 3.2979803}
   m_Children: []
-  m_Father: {fileID: 1106299106}
-  m_RootOrder: 5
+  m_Father: {fileID: 5006512736355618191}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!1 &1945983426
 GameObject:
@@ -17652,7 +17610,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: 9M32
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1001 &1953453672
@@ -17993,7 +17951,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: MIM-23
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &1983578145
@@ -18071,7 +18029,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: R23R
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1001 &1984811487
@@ -18259,7 +18217,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: R98MT
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!4 &2007714956
@@ -18598,7 +18556,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: 9M38
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &2075890363
@@ -19020,7 +18978,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: KS-1
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1001 &2105885261
@@ -19352,9 +19310,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 678309393}
-  - {fileID: 883892788}
-  - {fileID: 1914185801}
   - {fileID: 638144050}
+  - {fileID: 883892788}
   m_Father: {fileID: 884812423}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -19433,7 +19390,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: RIM-2
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1 &2127240119
@@ -19551,7 +19508,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modelName: Firestreak
-  filePath: NoU/Missiles
+  filePath: KKA/Missiles
   production: 1
   textureFormat: 4
 --- !u!1001 &2136988059
@@ -19679,3 +19636,15 @@ Transform:
   m_Father: {fileID: 500291573}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!4 &5006512736355618191 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -4216859302048453862, guid: 50b59d27f9096b3448da262313bd730d,
+    type: 3}
+  m_PrefabInstance: {fileID: 1550558869}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8296172668183707548 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: 50b59d27f9096b3448da262313bd730d,
+    type: 3}
+  m_PrefabInstance: {fileID: 1550558869}
+  m_PrefabAsset: {fileID: 0}
