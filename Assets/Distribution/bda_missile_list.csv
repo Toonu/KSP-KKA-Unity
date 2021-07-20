@@ -53,9 +53,9 @@ AIM-120D;AIM-120D AMRAAM;BahamutoD & Kerwis;Kerbal Liberation Army;0.152;950;5;1
 AIM9X;AIM-9X Sidewinder;BahamutoD & Kerwis;Kerbal Liberation Army;0.0835;950;5;1523.15;45;5;12;40;85;25;-1;150;True;aam;heat;0;200;12000;780;False;;0;6000;False;300;80;45;0;0
 ALASM;ASM-135 ASAT;BahamutoD & Kerwis;Kerbal Liberation Army;0.8;4000;500;1523.15;120;20;40;300;250;25;-1;150;True;aam;radar;0;16000;400000;1200;False;;0;50000;False;180;30;150;0;0
 TOW2B;BGM-71F;BahamutoD & Kerwis;Kerbal Liberation Army;0.0226;120;5;1523.15;24;0.12;1;5.5;20;30;-1;20;True;agmballistic;laser;0;20;3500;200;False;;0;6000;False;360;2.5;150;0;0
-aam.AIM4A;AIM-4A Falcon;Toonu;Kerbal Kombat Anthology;0.061;2400;5;1523.15;16;4.7;9;6;10;25;-1;150;True;aam;radar;0;200;9700;1000;False;heat;0;0;False;10;2;320;0;0
-aam.AIM7E;AIM-7E Sparrow;Toonu;Kerbal Kombat Anthology;0.197;2400;5;1523.15;30;10;28;10;15;25;-1;150;True;aam;radar;0;200;43000;1372;False;heat;0;0;False;20;3;320;0;0
-aam.AIM9B;AIM-9B Sidewinder;Toonu;Kerbal Kombat Anthology;0.07;1200;5;1523.15;6;8;4;0;15;25;-1;150;True;aam;heat;0;200;4800;583.1;False;heat;0;0;False;35;6;285;0;0
+aam.AIM4A;AIM-4A Falcon;Toonu;Kerbal Kombat Anthology;0.061;2400;5;1523.15;16;4.7;4;6;10;25;-1;150;True;aam;radar;0;200;9700;1000;False;heat;0;0;False;10;2;320;0;0
+aam.AIM7E;AIM-7E Sparrow;Toonu;Kerbal Kombat Anthology;0.197;2400;5;1523.15;33.8;2.9;14;1;15;25;-1;150;True;aam;radar;0;200;43000;1372;False;heat;0;0;False;20;3;320;0;0
+aam.AIM9B;AIM-9B Sidewinder;Toonu;Kerbal Kombat Anthology;0.07;1200;5;1523.15;17.7;2.1;4;0;15;25;-1;150;True;aam;heat;0;200;4800;583.1;False;heat;0;0;False;35;6;285;0;0
 aam.AIM9D;AIM-9D Sidewinder;Toonu;Kerbal Kombat Anthology;0.085;1200;5;1523.15;20;4;6;0;21;25;-1;150;True;aam;heat;0;200;4800;600;False;heat;0;0;False;90;6;285;0;0
 aam.AIM9L;AIM-9L Sidewinder;Toonu;Kerbal Kombat Anthology;0.085;1200;5;1523.15;10;2;4;8;1;25;-1;150;True;aam;heat;0;200;4000;894;False;heat;0;0;False;90;10;320;0;0
 aam.AIM9M;AIM-9M Sidewinder;Toonu;Kerbal Kombat Anthology;0.085;1200;5;1523.15;10;2;4;8;1;25;-1;150;True;aam;heat;0;200;4000;894;False;heat;0;0;False;90;10;320;0;0
@@ -76,30 +76,30 @@ aam.R530;R.530;Toonu;Kerbal Kombat Anthology;0.192;2400;5;1523.15;40;2;20;6.5;15
 aam.R530E;R.530;Toonu;Kerbal Kombat Anthology;0.192;2400;5;1523.15;40;2;20;6.5;15;25;-1;150;True;aam;heat;0;1500;20000;926.1;False;heat;0;0;False;80;10;60;0;0
 aam.R550;R.550 Magic I;Toonu;Kerbal Kombat Anthology;0.172;2400;5;1523.15;18;6;5;10;15;25;-1;150;True;aam;radar;0;200;7600;600;False;heat;0;0;False;30;3;320;0;0
 aam.RedTop;British Aerospace Red Top;Toonu;Kerbal Kombat Anthology;0.154;2400;5;1523.15;35;5;22;0;20;25;-1;150;True;aam;heat;0;200;12000;1400;False;heat;0;0;False;40;10;200;0;0
-aam.VelvetGlove;Velvet Glove;Toonu;Kerbal Kombat Anthology;0.144;2000;5;1523.15;35;1.9;0;20;10;25;-1;150;True;aam;heat;0;200;4500;789;False;heat;0;0;False;40;10;5;0;0
+aam.VelvetGlove;Velvet Glove;Toonu;Kerbal Kombat Anthology;0.144;2000;5;1523.15;35;1.9;0;0;10;25;-1;150;True;aam;heat;0;200;4500;789;False;heat;0;0;False;40;10;5;0;0
 agm.AGM12C;AGM-12C Bullpup;Toonu;Kerbal Kombat Anthology;0.81;2400;5;1523.15;147;3.5;20;20;3;25;-1;150;True;beamriding;laser;0;200;19000;600;False;heat;0;0;True;40;7;320;1;0.0075
 agm.AGM28;AGM-28 Hound Dog;Toonu;Kerbal Kombat Anthology;4.63;2400;5;1523.15;60;6;60;900;15;25;-1;150;True;cruise;gps;125;200;100000;720;False;radar;0;200000;True;360;7;100;0;0
 agm.AGM45;AGM-45B Shrike;Toonu;Kerbal Kombat Anthology;0.177;2400;5;1523.15;36;60;0;0;15;25;-1;150;True;agm;antirad;0;200;16000;514.5;False;heat;0;0;True;60;7;320;0;0
-agm.AUMN2;AUM-N-2 Petrel;Toonu;Kerbal Kombat Anthology;1.7;4000;5;1523.15;50;2;8;120;25;25;-1;150;True;beamriding;laser;0;2000;32000;168;False;;0;0;False;180;30;5;0;0
+agm.AUMN2;AUM-N-2 Petrel;Toonu;Kerbal Kombat Anthology;1.7;4000;5;1523.15;50;2;8;120;25;25;-1;150;True;cruise;gps;0;2000;32000;168;False;radar;10000;10000;True;360;30;5;0;0
 agm.Kh22;Kh-22 Burya;Toonu;Kerbal Kombat Anthology;5.82;2400;5;1523.15;320;5;150;300;10;25;-1;150;True;agm;radar;0;10000;480000;1577.8;False;radar;38000;38000;True;60;20;100;0;0
 agm.Kh66;Kh-66 Grom;Toonu;Kerbal Kombat Anthology;0.3;2400;5;1523.15;40;0;90;10;2;25;-1;150;True;beamriding;laser;0;100;9000;700;False;heat;0;0;False;30;10;320;1;0.0075
-agm.KS1;4K87 Kometa;Toonu;Kerbal Kombat Anthology;3;2400;5;1523.15;70;5;40;290;25;25;-1;150;True;cruise;laser;125;700;90000;309;False;radar;10000;10000;True;100;100;5;0;0
+agm.KS1;4K87 Kometa;Toonu;Kerbal Kombat Anthology;3;2400;5;1523.15;70;5;40;290;25;25;-1;150;True;cruise;gps;125;700;90000;309;False;radar;10000;10000;True;360;100;5;0;0
 agm.KSR2;KSR-2;Toonu;Kerbal Kombat Anthology;4.1;2400;5;1523.15;40;20;25;800;7;25;-1;150;True;cruise;gps;125;25000;200000;347;False;heat;0;38000;False;360;7;100;0;0
 agm.RB04C;RB-04C;Toonu;Kerbal Kombat Anthology;0.6;2400;5;1523.15;2.5;100;0;0;12;25;-1;150;True;agm;radar;0;200;32000;250;False;;0;32000;True;60;10;320;0;0
 sam.3M8;3M8 Krug;Toonu;Kerbal Kombat Anthology;2.45;4000;5;1523.15;450;6;250;35;30;25;-1;150;True;aam;radar;0;8000;55000;1372;False;heat;0;0;False;120;20;100;0;0
 sam.3M9;3M9M1 Kub;Toonu;Kerbal Kombat Anthology;0.6;4000;5;1523.15;200;10;150;60;12;25;-1;150;True;aam;radar;0;6000;24000;960.4;False;heat;0;0;False;60;15;100;0;0
 sam.9M32;9M32 Strela-2;Toonu;Kerbal Kombat Anthology;0.0098;2400;5;1523.15;5.4;1;1;6;15;25;-1;150;True;aam;heat;0;200;3700;430;False;heat;0;0;False;70;10;50;0;0
 sam.9M38;9M38M1 Buk-M1;Toonu;Kerbal Kombat Anthology;0.69;4000;5;1523.15;400;3;180;120;38;25;-1;150;True;aam;radar;0;2000;35000;1029;False;heat;0;0;False;120;15;100;0;0
-sam.BloodhoundMk1;Bristol Bloodhound Mk. 1;Toonu;Kerbal Kombat Anthology;2.27;4000;5;1523.15;250;6.6;23;82;19;25;-1;150;True;aamlead;radar;0;2000;58000;755;False;heat;0;0;True;120;7;100;0;0
+sam.BloodhoundMk1;Bristol Bloodhound Mk. 1;Toonu;Kerbal Kombat Anthology;2.27;4000;5;1523.15;250;6.6;23;82;22;25;-1;150;True;aamlead;radar;0;2000;58000;755;False;heat;0;0;True;120;7;100;0;0
 sam.BloodhoundMk2;BristolBloodhound Mk. 2;Toonu;Kerbal Kombat Anthology;2.27;4000;5;1523.15;320;6.5;23;220;19;25;-1;150;True;aamlead;radar;0;2000;150000;755;False;heat;0;0;True;180;7;100;0;0
 sam.CIM10;CIM-10 Bomarc;Toonu;Kerbal Kombat Anthology;7;4000;5;1523.15;450;15;250;500;60;25;-1;150;True;aam;radar;0;2000;320000;891;False;radar;16000;16000;True;120;20;100;0;0
 sam.FIM43;FIM-43 Redeye;Toonu;Kerbal Kombat Anthology;0.0083;1200;5;1523.15;3.3;0.1;1.1;5.8;12;25;-1;150;True;aam;heat;0;200;4500;580;False;heat;0;0;False;90;8;50;0;0
 sam.GWS20;GWS.20 Seacat;Toonu;Kerbal Kombat Anthology;0.068;2400;5;1523.15;2;14;1;2;10;25;-1;150;True;aam;radar;0;200;5000;274.4;False;heat;0;0;False;90;3;320;0;0
 sam.Masurca;Masurca;Toonu;Kerbal Kombat Anthology;2.1;2400;5;1523.15;170;5;80;20;30;25;-1;150;True;aam;radar;0;200;55000;1029;False;heat;0;0;False;60;6;320;0;0
 sam.MIM23;MIM-23A Hawk;Toonu;Kerbal Kombat Anthology;0.59;4000;5;1523.15;200;5;120;32;40;25;-1;150;True;aam;radar;0;2000;24000;823.2;False;heat;0;0;False;180;15;100;0;0
-sam.MIM3;MIM-3 Nike Ajax;Toonu;Kerbal Kombat Anthology;1.12;4000;5;1523.15;240;3.5;12;200;8;25;-1;150;True;aam;radar;0;5000;48000;771.5;False;heat;0;0;True;180;15;100;0;0
+sam.MIM3;MIM-3 Nike Ajax;Toonu;Kerbal Kombat Anthology;1.12;4000;5;1523.15;410;1.8;35;200;20;25;-1;150;True;aam;radar;0;5000;48000;771.5;False;heat;0;0;True;180;15;100;0;0
 sam.MIM72;MIM-72 Chaparral;Toonu;Kerbal Kombat Anthology;0.085;1200;5;1523.15;12.2;4.7;4;0;21;25;-1;150;True;aam;heat;0;200;5000;894;False;heat;0;0;False;40;3;240;0;0
-sam.RIM2;RIM-2B Terrier;Toonu;Kerbal Kombat Anthology;1.08;4000;5;1523.15;150;6;104;25;20;25;-1;150;True;aam;radar;0;2000;18000;1029;False;heat;0;0;False;90;10;100;0;0
+sam.RIM2;RIM-2B Terrier;Toonu;Kerbal Kombat Anthology;1.08;4000;5;1523.15;150;6;104;25;23;25;-1;150;True;aam;radar;0;2000;18000;1029;False;heat;0;0;False;90;10;100;0;0
 sam.RIM24;RIM-24A Tartar;Toonu;Kerbal Kombat Anthology;0.59;2400;5;1523.15;52;4;10.5;22;30;25;-1;150;True;aam;radar;0;200;16100;1029;False;heat;0;0;False;30;3;320;0;0
 sam.RIM8;RIM-8A Talos;Toonu;Kerbal Kombat Anthology;3.5;4000;5;1523.15;460;5;90;90;20;25;-1;150;True;aam;radar;0;2000;92000;857.5;False;heat;0;0;False;90;10;100;0;0
 sam.5V21;5V21 S-200A Angara;Toonu;Kerbal Kombat Anthology;7.1;4000;5;1523.15;600;5.1;290;150;15;25;-1;150;True;aam;radar;0;17000;180000;1372;False;heat;0;0;False;120;25;100;0;0

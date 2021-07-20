@@ -1,5 +1,5 @@
 NAME;TITLE;AUTHOR;MANUFACTURER;PART_MASS;PART_COST;PART_CRASHTOLERANCE;PART_MAXTEMP;radar_name;rwrThreatType;omnidirectional;directionalFieldOfView;boresightFOV;scanRotationSpeed;lockRotationSpeed;lockRotationAngle;showDirectionWhileScan;multiLockFOV;lockAttemptFOV;canScan;canLock;canTrackWhileScan;canRecieveRadarData;maxLocks;radarGroundClutterFactor;radarDetectionCurve;radarLockTrackCurve
-AeroAntenna;WW2 Ball Antenna;VintageXP;Roaken Armory;0.054;800;12;1200;WW2 Ball Antenna;FIGHTER;False;60;10;100;120;4;False;30;2;True;True;False;False;1;0.25;0@-3.402823E+38;0@-3.402823E+38
+AeroAntenna;WW2 Ball Antenna;VintageXP;Roaken Armory;0.054;800;12;1200;;FIGHTER;False;60;10;100;120;4;False;30;2;True;True;False;False;1;0.25;0@-3.402823E+38;0@-3.402823E+38
 ringantenna;WW2 Ring Antenna;VintageXP;Roaken Armory;0.006;800;12;1200;;SAM;True;90;10;120;120;4;True;30;2;False;False;False;True;1;0.25;0@-3.402823E+38;0@-3.402823E+38
 awacsRadar;AN/APY-1 AEW;BahamutoD;Bahamuto Dynamics;1.45;600;7;1523.15;AN/APY-1;AWACS;True;90;10;110;120;4;True;30;2;True;False;False;True;1;0.2;30@80;0@-3.402823E+38
 search.liana;Liana Airborne Early Warning Radar;Toonu;Kerbal Kombat Anthology;2;600;7;1523.15;Liana Early Warning Radar;AWACS;True;6;10;36;40;40;False;20;2;True;False;False;True;1;0.1;200@398.2;0@-3.402823E+38

@@ -45,6 +45,7 @@ BDAcGKmk2;Goalkeeper EX-84;BahamutoD;Bahamuto Dynamics;4.4;950;50;1523.15;4200;0
 bdImpulseGun;Zero-Point Energy Field Manipulator;Concodroid, SuicidalInsanity;Bahamuto Dynamics;0.1;950;60;1523.15;750;0.15;2500;laser;def;ElectricCharge;0.388;1030;3600;115;825;0;False
 bahaH70Launcher;LAU-51/A FFAR Launcher;BahamutoD;Bahamuto Dynamics;0.016;650;37;1523.15;650;1;4000;rocket;Hydra70;Hydra70Rocket;0.388;1030;3600;75;250;0;False
 bahaH70Turret;Hydra-70 Rocket Turret;BahamutoD;Bahamuto Dynamics;0.416;650;37;1523.15;650;1;4000;rocket;Hydra70;Hydra70Rocket;0.388;1030;3600;75;250;0;False
+HKAPS;Hard-Kill Active Protection System.;Toonu;Kerbal Kombat Anthology;0.1;650;37;1523.15;20;0.005;200;ballistic;HKAPSR;Hydra70Rocket;0.388;1030;3600;75;250;0;False
 bahaHiddenVulcan;M61A1;Toonu;Kerbal Kombat Anthology;0.112;950;60;1523.15;6000;0.125;2500;ballistic;20x102mmBullet; 20x102mmHEBullet;20mm;0.388;1030;3600;36;820;0;False
 air.GSh23L;9A472 GSh-23L;Toonu;Kerbal Kombat Anthology;0.05;950;60;1523.15;3600;0.125;2500;ballistic;23x152mmHEBullet; 25x115mmBullet;23mm;0.388;1030;3600;36;820;0;False
 bahaM102Howitzer;M102;BahamutoD;Bahamuto Dynamics;1;3500;60;1523.15;13;0.25;8000;ballistic;105mmBullet; 105mmHEBullet;CannonShells;0.388;1030;3600;60;740;0;False
