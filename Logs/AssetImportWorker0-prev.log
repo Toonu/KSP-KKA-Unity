@@ -15,11 +15,11 @@ D:/GitProjects/KSP-NoU-Mod
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61148
+49227
 Successfully changed project path to: D:/GitProjects/KSP-NoU-Mod
 D:/GitProjects/KSP-NoU-Mod
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 34.33 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 36.27 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.2f1 (068178b99f32)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
@@ -35,77 +35,53 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56652
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56804
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003154 seconds.
+Registered in 0.003219 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 32.50 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 39.53 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.207 seconds
+- Completed reload, in  1.284 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002220 seconds.
+Registered in 0.002304 seconds.
 Begin MonoManager ReloadAssembly
 Error: Could not load signature of KSPFontAsset:.ctor due to: Could not load file or assembly 'TextMeshPro-2017.1-1.0.56-Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:TextMeshPro-2017.1-1.0.56-Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
 
 Unloading broken assembly Assets/Plugins/KSPAssets/KSPAssetCompiler.dll, this assembly can cause crashes in the runtime
 
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.879 seconds
+- Completed reload, in  0.911 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1147 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 99.6 MB.
 System memory in use after: 99.6 MB.
 
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1631.
-Total: 1.918600 ms (FindLiveObjects: 0.203500 ms CreateObjectMapping: 0.029100 ms MarkObjects: 1.525000 ms  DeleteObjects: 0.159900 ms)
+Total: 2.063700 ms (FindLiveObjects: 0.200500 ms CreateObjectMapping: 0.031000 ms MarkObjects: 1.655400 ms  DeleteObjects: 0.174200 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Models/RF/9M38 Buk.mat
-  artifactKey: Guid(e8b5b84675718544facf965b7932203c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/RF/9M38 Buk.mat using Guid(e8b5b84675718544facf965b7932203c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '081ebb7633c488a9493bd15af62e9f0b') in 0.126894 seconds
-  Import took 0.150767 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001066 seconds.
-  path: Assets/Models/RF/3M8 Krug.mat
-  artifactKey: Guid(751aa2a85424c674a83904bad9824ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/RF/3M8 Krug.mat using Guid(751aa2a85424c674a83904bad9824ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad627df6b79656446f184504d4797f62') in 0.026000 seconds
-  Import took 0.051172 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002408 seconds.
   path: Assets/Models/Ships/SmallShipParts.blend
   artifactKey: Guid(9550868a8e576dd4189a75f9f37c1f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Ships/SmallShipParts.blend using Guid(9550868a8e576dd4189a75f9f37c1f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ebf128e32d8db28cb9208a7aafca21f') in 0.267245 seconds
-  Import took 0.291470 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1199.912482 seconds.
-  path: Assets/Models/Ships/Ships.mat
-  artifactKey: Guid(2f953fa2e4de4ed4dbd89efaf8fd2a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Ships/Ships.mat using Guid(2f953fa2e4de4ed4dbd89efaf8fd2a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8a0248944e2194069cd3acfc2b246ee') in 0.013995 seconds
-  Import took 0.055631 seconds .
+Start importing Assets/Models/Ships/SmallShipParts.blend using Guid(9550868a8e576dd4189a75f9f37c1f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2420da3a51df7d3dea4a76eac1114c13') in 0.348507 seconds
+  Import took 0.372441 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
