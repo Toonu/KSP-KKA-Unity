@@ -1,0 +1,132 @@
+BDA Changes
+
+
+1.4.7.1
+added ammo belt for Oerlikon
+
+1.4.8
+multi turreted gun turrets
+Sidam 25mm added
+GAU-22 25mm added
+Target priorities
+
+1.4.9.0
+Add angle parameter for directed explosions
+
+1.4.10.0
+Add support for beam guided AAM
+Underwater bullet drag for bullet defs
+	Bullets with caliber < 75 and rockets fired from above water stop when entering water and explode if they're explosive.
+	Rockets with sufficient thrust duration can be fired from underwater at splashed/submerged targets that are close enough.
+	Weapons targeting nearly fully submerged targets will target the water surface immediately above the target.
+	Weapon selection updated to reflect the above changes.
+	AI will no longer select guns when underwater.
+	
+1.4.11.0
+Add persistent FX to damage
+BDModuleNuke
+Sabot rounds now identified via mass, caliber, and length instead of caliber and velocity.
+Bullet deformation now controlled by caliber and HE ratio.
+Adds three new fuze types - Impact, Delay, and Penetrating.
+Proximity/Timed fuze rounds will not detonate if they hit something within their arming dist.
+
+1.4.11.1
+AIR-2 Genie
+
+1.4.11.2
+Missiles can now use in-flight animations with the 'flightAnimationName =' field.
+
+1.4.12.0
+Armor panel area (in m^2) can be set in .cfg via "armorVolume =" field.
+ModuleReactiveArmor has been rebuilt and now works.
+Adds Reactive Armor example part.
+
+1.4.13.0
+Add option for laser mutators to use Team Color for beam color (set bulletType in the mutator config to "def").
+
+1.4.14.0
+Adds new BDAdjustableArmor module.
+Armor panels replaced with new procedural armor panels. Old panels moved to legacy to prevent breaking saved craft.
+Adds shaped charge and continuous rod warhead options to Rockets/Missiles/Bombs, use "warheadType = "shapedcharge" or "continuousrod" in the BDexplosivePart Module of the part.cfg, or setting "shaped = true" in the rocket config.
+BDA stock missiles updated with new warheads where appropriate - check RMB info in the editor.
+
+1.4.14.1
+Restores ability to set custom tracer stats in weapon.cfg. Use "tracerOverrideWidth = true" in the cfg to use override values instead of dynamically determined tracer settings.
+
+1.4.15.0
+Adds Chaingun functionality; chainguns have user configurable RoF in the SPH/VAB.
+Adds Weapon Spool up time functionality (for Gatling guns, etc).
+Lasers get damage/FX growth option for increasing damage/changing beam width/color the longer they've been firing.
+Adds support for EMP, Beehive, Impulse, Gravitic, and Nuclear bullets.
+Expands GUI ammo labels to include above types.
+Restore ability to add firebottles to engines.
+
+1.4.16.0
+Add DeployableRail module for missilebays.
+Adds Deployable Missile Rail demo part.
+
+1.4.18.0
+Added VTOL/Heli AI
+Armor:
+Explosive Reactive Armor HP is now customizable.
+Create new antiradTargetTypes variable for missiles that allows you to specify the RWR Threat Type that the anti-radiation missile should target. Default is 0,5 (SAM,Detection). See the HARM config file for more details.
+
+1.5.0.0
+Adjusted Sabot depth calculation, should no longer overpenetrate quite so much
+Rockets now support beehive/nuclear warhead options
+Bullets now support shaped charge HE fillers (for HEAT rounds and similar):
+Bullet.cfg 'explosive =' field no longer true/false, now select from 'Standard' or 'Shaped' in place of explosive = true, or 'None' in place of explosive = false
+
+Adds Missile multi-targeting
+Add chaffEffectivity parameter to missile configs. See AIM-120 config for more details
+Deprecate allAspect parameter, missile modders should now use uncagedLock instead (old missiles will automatically have the uncagedLock parameter value set to the value of allAspect
+mplemented Proportional Navigation and Augmented Proportional Navigation as missile guidance options for missile parts and modular missiles. For missile parts, set:
+homingType = pronav (for Pro-Nav)
+homingType = augpronav (for Augmented Pro-Nav)
+
+Armor penetration formula now uses the Tate/Alekseevskii formula. Penetration depths should be similar in most cases for modded ammos, but may need recalibration of their apBulletMod
+Adds IRST implementation for thermal detection alternative to radar -Adds thermal occlusion mechanic; heatsources hidden behind other parts will be harder to detect by IRST
+Adds support for optic/thermal cloaking countermeasures
+Adds new AN/AAQ-42 IRST Pod part
+Radars must now be capable of detecting a target before it can be locked
+
+1.5.1
+Add pro-nav gain parameter as tunable parameter for missile parts (pronavGain), set pro-nav gain to 3 by default.
+Anti-rad missiles now continue to target the last known GPS point instead of disabling guidance.
+
+1.5.2
+Correct spelling of "receive" (and variants) and adjust BDA parts that use "canRecieveRadarData" to use "canReceiveRadarData" instead ("canRecieveRadarData" is retained for compatibility, but other mods should make this adjustment!).
+Radar missile position distortion due to chaff now relies on the ratio of ECM jammer strength to craft signature with RCS reduction to bias the position distortion from chaff to further behind the craft. Net effect is craft with jammers, and especially low RCS craft with jammers, will have an easier time evading radar missiles.
+Lockbreak from jammers now affects RCS with RCS reduction instead of base RCS. Craft can now mix RCS reduction parts and jammers to break locks without worrying about them conflicting.
+Incorporate stand-off jamming effects. Friendly craft with jammers now result in your craft being harder to detect and lock. Strength of this effect is determined by the lockBreakerStrength of the friendly jammers, relative distance of friendly jammers (friendly jammers closer to enemy will have a stronger effect), and if the jammers are close in field of view for the enemy (friendly jammers in same field of view will have a stronger effect). Debug readout is available by enabling the Detectors debug option.
+AI no longer will turn off jammers automatically if they were manually enabled prior to being turned on by the AI.
+
+Add paramater gpsUpdates for GPS guided missiles. gpsUpdates >= 0 in the missile config will allow the missile to get position updates of the target from the craft that launched the missile (if it can still see the target) every gpsUpdates seconds.
+Adds Active Protection System implementation.
+Adds new fields: 'isAPS = T/F', 'APSType = [ballistic, missile,omni]'.
+Adds new Settings.cfg field 'APS_THRESHOLD = n' to set threshold bullet/rocket size for interception.
+
+1.5.3
+Added ability to manually aim guns using GPS coordinates, primarily for artillery. This behavior is not a functionality in Guard Mode, however when a GPS target is manually selected, turrets will now aim to attempt to hit said target.
+
+Added "caliber" field to the BDExplosivePart module, it's an optional field for shaped charge projectiles which influences its effectiveness.
+apBulletMod now influences shaped charge projectile penetration, modifying this allows for the penetration of shaped charge shells to be tweaked.
+Added optional "apMod" field to the BDExplosivePart module, it's functions the same way as apBulletMod for bullets and its primary purpose is to allow users to create dual-purpose shaped charge warheads, where part of the tntMass of the warhead isn't going into the shaped charge effect, reducing penetration.
+Added optional "apMod" field to rocket configuration file. This allows tweaking of rocket penetration, functioning the same way as apBulletMod for bullets, affecting physical armor penetration as well as shaped charge armor penetration if the rocket is equipped with a shaped charge warhead.
+RBS-15 and RBS-15AL have had their warheads decreased from 300 kg to 200 kg to reflect their real counterparts. Added caliber field, set at 500 mm.
+AGM-114R Hellfire missile has had its warhead decreased from 12 kg to 8 kg, with a 172 mm caliber to reflect performance estimates of earlier known models of the Hellfire. Warhead may not match -114R performance.
+AGM-65 Maverick missile is set to have a 305 mm caliber and an apMod field added with performance set to 950 mm of penetration. No good estimates of the warhead penetration were found so an approximate estimate based on a 27 kg charge was used.
+BGM-71 TOW missile has had its warhead decreased from 10 kg to 3.9 kg and has a 152 mm caliber to be around TOW/ITOW performance.
+Hydra-70 has had its penetration tweaked with apMod to match estimates of the M151 HEDP warhead penetration performance.
+AGM-86 now has caliber field, set to 620 mm.
+Adjusted 120 mm HEAT and AP rounds to have around the same amount of penetration, balanced for gameplay (210 mm / 216 mm). Realistic configs also exist under the names "120mmBulletHEAT" and "120mmBulletSabot", a commented out line in m1Abrams.cfg can be uncommented in order to use these.
+
+Reworks ModuleMissileRearm, now works, integrated with WM, etc.
+Missiles with a ModuleMissileRearm can now have reloads, be affected by Infinite Ammo.
+Adds MultiMissileLauncher module.
+
+
+1.5.6.2
+Add frontAspectHeatModifier variable to missile definitions, explained further in sidewinder.cfg. Allows you to create IR missiles that behave more like early IR rear-aspect/tail-chase missiles.
+Remove the clamp on heat signature drop-off with range above 6 km. Prior to this change, any heat signatures more than 6 km away were capped at their 6 km value.
+
